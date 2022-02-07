@@ -1,35 +1,38 @@
-## Ferramentas Utilizadas pela equipe
+# Ferramentas Utilizadas pela equipe
 
-# Discord
+### Discord
 <br/>
 <p align="center">
-<img src="../img/discord.png" height="80px" />
+<img src="../img/discord.png" height="60px" />
 </p align="center">
 <p  align="center">
 Ferramenta de comunicação baseada em comunidades
 </p>
 
 
-# Github
+### Github
 <br/>
 <p align="center">
-<img src="../img/github.png" height="80px"/>
+<img src="../img/github.png" height="60px"/>
+</p>
+<p align="center">
+Ferramenta de versionamento de código fonte
 </p>
 
-# Google Workspace
+### Google Workspace
 <br/>
 <p align="center">
-<img src="../img/google-workspace.jpg" height="80px"/>
+<img src="../img/google-workspace.jpg" height="60px"/>
 </p>
 
-# Teams
+### Teams
 <br/>
 <p align="center">
-<img src="../img/teams.png" height="80px"/>
+<img src="../img/teams.png" height="60px"/>
 </p>
 
-# Whatsapp
+### Whatsapp
 <br/>
 <p align="center">
-<img src="../img/whatsapp.png" height="80px" width="120px"/>
+<img src="../img/whatsapp.png" height="60px" />
 </p>
