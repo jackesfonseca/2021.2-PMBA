@@ -1,7 +1,7 @@
 # GRUPO 7
 Repositório para desenvolvimento do projeto da disciplina IHC. FGA - UnB.
 
-
+<img src="https://user-images.githubusercontent.com/53023400/152888293-c2aae296-6bb6-4848-99a7-23c968757385.png">
 ## 1. Sobre o projeto
 
 
