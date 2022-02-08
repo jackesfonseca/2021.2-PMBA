@@ -1,60 +1,13 @@
 <h1 align="center"> Ferramentas Utilizadas </h1>
 
-<br/>
+|                     Logo                     |  Ferramenta  | Finalidade                                                                 |
+| :------------------------------------------: | :----------: | -------------------------------------------------------------------------- |
+|         ![Github](../img/github.png)         |    Github    | Versionamento de código fonte                                              |
+|        ![Discord](../img/discord.png)        |   Discord    | Comunicação baseada em comunidades                                         |
+| ![Google Drive](../img/google-workspace.jpg) | Google Drive | Produtividade e colaboração por meio de documentos, planilhas de controle. |
+|          ![Teams](../img/teams.png)          |    Teams     | Comunicação através de reuniões                                            |
+|       ![Whatsapp](../img/whatsapp.png)       |   Whatsapp   | Comunicação rápida                                                         |
 
-### Discord
-
-<br/>
-<p align="center">
-<img src="../img/discord.png" height="60px" />
-</p align="center">
-<p  align="center">
-Ferramenta de comunicação baseada em comunidades
-</p>
-<br/>
-
-### Github
-
-<br/>
-<p align="center">
-<img src="../img/github.png" height="60px"/>
-</p>
-<p align="center">
-Ferramenta para versionamento de código fonte
-</p>
-<br/>
-
-### Google Workspace
-
-<br/>
-<p align="center">
-<img src="../img/google-workspace.jpg" height="60px"/>
-</p>
-<p align="center">
-Ferramenta de produtividade e colaboração por meio de documentos, planilhas de controle.
-</p>
-<br/>
-
-### Teams
-
-<br/>
-<p align="center">
-<img src="../img/teams.png" height="60px"/>
-</p>
-<p align="center">
-Ferramenta de comunicação para realização de reuniões
-</p>
-<br/>
-
-### Whatsapp
-
-<br/>
-<p align="center">
-<img src="../img/whatsapp.png" height="60px" />
-</p>
-<p align="center">
-Ferramenta de comunicação rápida
-</p>
 <br/>
 
 ## Versionamento
