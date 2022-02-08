@@ -1,6 +1,7 @@
 # Ferramentas Utilizadas pela equipe
 
 ### Discord
+
 <br/>
 <p align="center">
 <img src="../img/discord.png" height="60px" />
@@ -9,8 +10,8 @@
 Ferramenta de comunicação baseada em comunidades
 </p>
 
-
 ### Github
+
 <br/>
 <p align="center">
 <img src="../img/github.png" height="60px"/>
@@ -20,19 +21,29 @@ Ferramenta de versionamento de código fonte
 </p>
 
 ### Google Workspace
+
 <br/>
 <p align="center">
 <img src="../img/google-workspace.jpg" height="60px"/>
 </p>
 
 ### Teams
+
 <br/>
 <p align="center">
 <img src="../img/teams.png" height="60px"/>
 </p>
 
 ### Whatsapp
+
 <br/>
 <p align="center">
 <img src="../img/whatsapp.png" height="60px" />
 </p>
+
+## Versionamento
+
+| Versão | Data       | Modificação             | Autor                       |
+| ------ | ---------- | ----------------------- | --------------------------- |
+| 1.0    | 07/02/2022 | Criação do documento    | Isadora Soares              |
+| 1.1    | 07/02/2022 | Adicionando ferramentas | Carlos Rafael e Herick Lima |
