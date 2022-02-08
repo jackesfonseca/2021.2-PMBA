@@ -43,7 +43,7 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 Ponto de controle focado na avaliação do storyboard, avaliação da análise de tarefas.
 
 | Tarefa                                                                      | Data da entrega |
-| :-------------------------------------------------------- ------------------| --------------- |
+| :---------------------------------------------------------------------------| --------------- |
 | Planejamento da avaliação do Storyboard                                     | 16/03/2022      |
 | Planejamento do relato dos resultados da avaliação do Storyboard            | 16/03/2022      |
 | Planejamento da Avaliação da Análise de tarefas                             | 16/03/2022      |
