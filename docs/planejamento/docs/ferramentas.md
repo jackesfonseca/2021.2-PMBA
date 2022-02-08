@@ -1,4 +1,6 @@
-# Ferramentas Utilizadas pela equipe
+<h1 align="center"> Ferramentas Utilizadas </h1>
+
+<br/>
 
 ### Discord
 
@@ -9,6 +11,7 @@
 <p  align="center">
 Ferramenta de comunicação baseada em comunidades
 </p>
+<br/>
 
 ### Github
 
@@ -17,8 +20,9 @@ Ferramenta de comunicação baseada em comunidades
 <img src="../img/github.png" height="60px"/>
 </p>
 <p align="center">
-Ferramenta de versionamento de código fonte
+Ferramenta para versionamento de código fonte
 </p>
+<br/>
 
 ### Google Workspace
 
@@ -26,6 +30,10 @@ Ferramenta de versionamento de código fonte
 <p align="center">
 <img src="../img/google-workspace.jpg" height="60px"/>
 </p>
+<p align="center">
+Ferramenta de produtividade e colaboração por meio de documentos, planilhas de controle.
+</p>
+<br/>
 
 ### Teams
 
@@ -33,6 +41,10 @@ Ferramenta de versionamento de código fonte
 <p align="center">
 <img src="../img/teams.png" height="60px"/>
 </p>
+<p align="center">
+Ferramenta de comunicação para realização de reuniões
+</p>
+<br/>
 
 ### Whatsapp
 
@@ -40,8 +52,14 @@ Ferramenta de versionamento de código fonte
 <p align="center">
 <img src="../img/whatsapp.png" height="60px" />
 </p>
+<p align="center">
+Ferramenta de comunicação rápida
+</p>
+<br/>
 
 ## Versionamento
+
+<br/>
 
 | Versão | Data       | Modificação             | Autor                       |
 | ------ | ---------- | ----------------------- | --------------------------- |
