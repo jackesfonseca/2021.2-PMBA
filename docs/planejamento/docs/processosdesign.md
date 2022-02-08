@@ -26,7 +26,12 @@
 <br>
 <br>
 
-<img style="margin-left:25%" alt="size-badge" src="../img/processosdedesign.png">
+<div style="margin-left:25%">
+
+![processos](/docs/assets/processosdedesign.png)
+
+</div>
+
 <h5 style="margin-left:25%">Figura 1: Engenharia de Usabilidade de Mayhew </h5>
 
 <br>
