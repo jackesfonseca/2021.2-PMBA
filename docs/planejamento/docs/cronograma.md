@@ -56,7 +56,7 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 
 | Tarefa                                                                              | Data da entrega |
 | :---------------------------------------------------------------------------------- | --------------- |
-| Relato dos resultados do Storyboard e da Análise de tarefas                        | 30/03/2022      |
+| Relato dos resultados do Storyboard e da Análise de tarefas                         | 30/03/2022      |
 | Planejamento da Avaliação do Protótipo de Papel                                     | 30/03/2022      |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel            | 30/03/2022      |
 
@@ -91,7 +91,7 @@ Apresentação final do projeto da disciplina
 O mapa de calor é uma ferramenta que será utilizada para verificar a disponibilidade de horários de cada integrante da equipe a fim de possibiliar uma maior organização na marcação de reuniões.
 
 <center>
-  <img width="700" src="https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8028172/Disponibilidade.de.horarios.-.IHC.pdf"><br>
+  <img width="700" src="https://user-images.githubusercontent.com/53023400/153096923-eb6ab94c-16a7-44a5-accc-6bf184c9c78e.jpg"><br>
 </center>
 
 ## Referências
