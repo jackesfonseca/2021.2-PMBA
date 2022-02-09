@@ -1,19 +1,19 @@
 # Processos de design
 
-<h3> O design é um processo que envolve as seguintes atividades básicas:</h3>
+<p> O design é um processo que envolve as seguintes atividades básicas:</p>
 
 - A análise da situação atual
 - A síntese de uma intervenção
 - A avaliação dessa intervenção
 
-<h3> Cada processo de design detalha essas atividades básicas de uma forma particular, definindo como executar cada atividade. a sequência em que elas devem ser executadas, quais atividades e por quais motivos podem se repetir e os artefatos produzidos em cada uma delas. Uma característica básica dos processos de design é a execução das atividades de forma <b>iterativa</b>, permitindo refinamentos sucessivos da análise da situação atual e da proposta de intervenção. (Barbosa e Silva, 2010).</h3>
+<p> Cada processo de design detalha essas atividades básicas de uma forma particular, definindo como executar cada atividade. a sequência em que elas devem ser executadas, quais atividades e por quais motivos podem se repetir e os artefatos produzidos em cada uma delas. Uma característica básica dos processos de design é a execução das atividades de forma <b>iterativa</b>, permitindo refinamentos sucessivos da análise da situação atual e da proposta de intervenção. (Barbosa e Silva, 2010).</p>
 
 <br>
 <br>
 
 ## Engenharia de Usabilidade de Mayhew
 
-<h3>Esse processo de design reune e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura 1 mostra as três fases desse processo interativo:</h3>
+<p>Esse processo de design reune e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura 1 mostra as três fases desse processo interativo:</p>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <div style="margin-left:25%">
 
-![processos](/docs/assets/processosdedesign.png)
+![processos](../../assets/processosdedesign.png)
 
 </div>
 
@@ -52,3 +52,4 @@
 | ------ | ---------- | ------------------------------------------------ | -------------- |
 | 1.0    | 07/02/2022 | Criação do documento                             | Isadora Soares |
 | 1.1    | 08/02/2022 | Adicionando informações sobre processo de design | Isadora Soares |
+| 1.2    | 09/02/2022 | Atualização imagem e estilo texto                | Isadora Soares |
