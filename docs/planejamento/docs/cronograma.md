@@ -96,7 +96,7 @@ O mapa de calor é uma ferramenta que será utilizada para verificar a disponibi
 
 ## Referências
 
-[Plano de ensino da disciplina](https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8028286/Plano_de_Ensino.FIHC.22021.Turma.A.pdf)
+[Plano de ensino da disciplina](https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8028286/Plano_de_Ensino.FIHC.22021.Turma.A.pdf)<br>
 [A complete guide for heatmap](https://chartio.com/learn/charts/heatmap-complete-guide/)
 
 ## Histórico de versões
