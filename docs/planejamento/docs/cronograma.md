@@ -92,7 +92,7 @@ O mapa de calor é uma ferramenta que será utilizada para verificar a disponibi
 
 <center>
   <img width="700" src="https://user-images.githubusercontent.com/53023400/153096923-eb6ab94c-16a7-44a5-accc-6bf184c9c78e.jpg"><br>
-  Figura 1: Disponibilidade de horário dos integrantes
+  <p>Figura 1: Disponibilidade de horário dos integrantes</p>
 </center>
 
 ## Referências
