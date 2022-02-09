@@ -2,7 +2,7 @@
 
 O cronograma tem como objetivo definir um planejamento das tarefas entregues e suas datas. A matéria (Interação Humano Computador da Univerdade de Brasília) por si só já tem um planejamento pré definido, sendo as datas de entrega chamadas de **ponto de controle**.
 
-Após o debate sobre o planejamento, decidi-se adiantar algumas entregas definidas pelo professor, para se adequar melhor ao ciclo de vida do projeto. Dessa forma, nosso grupo separou as entregas em 4 pontos de controle:
+Com base no plano de ensino e as entregas definidas pelo professor, nosso grupo organizou o cronograma em 7 pontos de controle além da apresentação final:
 
 ## 1º Ponto de Controle - Apresentação do projeto etapa 1 (17/02)
 
