@@ -104,5 +104,6 @@ O mapa de calor é uma ferramenta que será utilizada para verificar a disponibi
 
 |    Data    | Versão |                            Descrição                             |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
-| 08/02/2022 |  1.0   |                Criação do boilerplate do arquivo                 | Jackes da Fonseca            |
-| 08/02/2022 |  1.1   |                Padronização do versionamento                 | Jackes da Fonseca            |
+| 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
+| 08/02/2022 |  1.1   |  Adicionando informações sobre o cronograma     | Jackes da Fonseca  |
+| 08/02/2022 |  1.2   |                Padronização do versionamento                 | Jackes da Fonseca            |
