@@ -18,4 +18,4 @@
 | ------ | ---------- | ------------------------------------ | --------------------------- |
 | 1.0    | 07/02/2022 | Criação do documento                 | Isadora Soares              |
 | 1.1    | 07/02/2022 | Adicionando ferramentas              | Carlos Rafael e Herick Lima |
-| 1.1.1  | 08/02/2022 | Atulizando descrição das ferramentas | Carlos Rafael               |
+| 1.2  | 08/02/2022 | Atulizando descrição das ferramentas | Carlos Rafael               |
