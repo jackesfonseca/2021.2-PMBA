@@ -70,3 +70,8 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 </table>
 
 <br/> 
+
+|    Data    | Versão |                            Descrição                             |          Autor(es)           |
+| :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
+| 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
+| 08/02/2022 |  1.1   |  Adicionando informações sobre o projeto    | Eduardo Gurgel   |
