@@ -71,6 +71,8 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 
 <br/> 
 
+## Versionamento
+
 |    Data    | Versão |                            Descrição                             |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
 | 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
