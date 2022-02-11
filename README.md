@@ -1,8 +1,10 @@
 # GRUPO 7
 Repositório para desenvolvimento do projeto da disciplina IHC. FGA - UnB.
 
-<img width="200" src="https://user-images.githubusercontent.com/53023400/152888293-c2aae296-6bb6-4848-99a7-23c968757385.png"/><br>  
-  
+<div align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/53023400/152888293-c2aae296-6bb6-4848-99a7-23c968757385.png"/>
+</div>
+
 ## 1. Sobre o projeto
 
 Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da PMBA, aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade para a área destinada ao serviço de segurança pública.
