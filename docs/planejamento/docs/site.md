@@ -3,8 +3,8 @@
 </div>
 <h3 align="center">Polícia Militar do Estado da Bahia</h3>
 
-Após uma pesquisa realizada, o site da Polícia Militar do Estado da Bahia foi escolhido por apresentar problemas de navegação e design.
-Esse repositório é destinado à disciplina de Interação Interação Humano Computador, do curso de Engenharia de Software da Universidade de Brasília.
+O site da Polícia Militar do Estado da Bahia é utilizando, principalmente, para fins informativos sobre a história da PMBA e também de membros importantes. Entretanto também possui algumas utilidades, como realizar denúncias e pesquisar sobre antecedentes criminais.
+Após uma pesquisa realizada, o site da Polícia Militar do Estado da Bahia foi escolhido por apresentar problemas de navegação, design mais simples, além de possuir erros, imagens mal posicionadas e também uma deficiência na formatação geral do layoult. Esse repositório é destinado à disciplina de Interação Interação Humano Computador, do curso de Engenharia de Software da Universidade de Brasília.
 
 <br>
 
@@ -14,3 +14,4 @@ Esse repositório é destinado à disciplina de Interação Interação Humano C
 | ------ | ---------- | -------------------------- | -------------- |
 | 1.0    | 07/02/2022 | Criação do documento       | Isadora Soares |
 | 1.1    | 07/02/2022 | Adicionando site escolhido | Eduardo Gurgel |
+| 1.2    | 11/02/2022 | Adicionando mais detalhes sobre o site | Eduardo Gurgel |
