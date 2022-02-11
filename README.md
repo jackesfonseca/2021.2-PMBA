@@ -75,3 +75,4 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
 | 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
 | 08/02/2022 |  1.1   |  Adicionando informações sobre o projeto    | Eduardo Gurgel   |
+| 10/02/2022 |  1.1   |  Padronização do versionamento    | Jackes da Fonseca   |
