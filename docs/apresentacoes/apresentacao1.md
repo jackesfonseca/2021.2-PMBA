@@ -6,7 +6,7 @@
 
 ## Slides
 <center>
-<iframe loading="lazy" style="width: 100%; height: 25.8rem; border: 1px solid #4051B5; padding: 0; margin: 0;" src="https://www.canva.com/design/DAEtIWC057Y/view?embed"> </iframe>
+<iframe loading="lazy" style="width: 100%; height: 25.8rem; border: 1px solid #4051B5; padding: 0; margin: 0;" src="https://www.canva.com/design/DAEtIWC057Y&utm/view?embed"> </iframe>
 </center>
   
 ## Histórico de versões
