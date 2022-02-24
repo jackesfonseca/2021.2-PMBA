@@ -11,7 +11,7 @@
 <br>
 <br>
 
-## 2.Metodologia
+## 2. Metodologia
 
 <p>A Engenharia de Usabilidade de Mayhew reune e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura 1 mostra as três fases desse processo interativo:</p>
 
