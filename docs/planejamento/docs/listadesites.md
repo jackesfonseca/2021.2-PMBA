@@ -28,6 +28,6 @@
 |    Data    | Versão |                            Descrição                             |          Autor(es)           |
 | ---------- | ------ | ---------------------------------------------------------------- | ---------------------------- |
 | 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
-| 10/02/2022 |  1.1   | Padronização do versionamento        | Jackes da Fonseca   |
+| 10/02/2022 |  1.1   | Padronização do versionamento        | Jackes Fonseca   |
 | 13/02/2022 |  1.2   | Reunindo informações sobre sites avaliados        | Matheus Salim   |
-| 14/02/2022 |  1.3   | Adicionando sites avaliados        | Jackes da Fonseca   |
+| 14/02/2022 |  1.3   | Adicionando sites avaliados        | Jackes Fonseca   |
