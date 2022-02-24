@@ -105,5 +105,5 @@ A complete guide for Heatmap. Chartio. Disponível em: <https://chartio.com/lear
 |    Data    | Versão |                            Descrição                             |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
 | 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
-| 08/02/2022 |  1.1   |  Adicionando informações sobre o cronograma     | Jackes da Fonseca  |
-| 08/02/2022 |  1.2   |                Padronização do versionamento                 | Jackes da Fonseca            |
+| 08/02/2022 |  1.1   |  Adicionando informações sobre o cronograma     | Jackes Fonseca  |
+| 08/02/2022 |  1.2   |                Padronização do versionamento                 | Jackes Fonseca            |
