@@ -8,10 +8,10 @@
  
 - **Contexto de Uso**
 
-  - [Perfil do usuário](docs/planejamento/docs/listadesites.md)
-  - [Personas](docs/planejamento/docs/listadesites.md)
-  - [Análise de tarefas](docs/planejamento/docs/listadesites.md)
-  - [Storyboard](docs/planejamento/docs/listadesites.md)
+  - [Perfil do usuário](docs/contexto_uso/perfil_usuario.md)
+  - [Personas](docs/contexto_uso/personas.md)
+  - [Análise de tarefas](docs/contexto_uso/analise_tarefas.md)
+  - [Storyboard](docs/contexto_uso/storyboard.md)
 
 - **Apresentações**
 
