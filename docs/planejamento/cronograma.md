@@ -97,13 +97,13 @@ O mapa de calor é uma ferramenta que será utilizada para verificar a disponibi
 
 ## Referências
 
-[Plano de ensino da disciplina](https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8028286/Plano_de_Ensino.FIHC.22021.Turma.A.pdf)<br>
-[A complete guide for heatmap](https://chartio.com/learn/charts/heatmap-complete-guide/)
+1. SALES, André Barros. Plano de ensino da disciplina. Disponível em: <[https://aprender3.unb.br/](https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8028286/Plano_de_Ensino.FIHC.22021.Turma.A.pdf)>. Acesso em: 07 de fevereiro de 2022<br>
+2. A complete guide for Heatmap. Chartio. Disponível em: <https://chartio.com/learn/charts/heatmap-complete-guide/>. Acesso em: 07 de fevereiro de 2022
 
 ## Histórico de versões
 
 |    Data    | Versão |                            Descrição                             |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
 | 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
-| 08/02/2022 |  1.1   |  Adicionando informações sobre o cronograma     | Jackes da Fonseca  |
-| 08/02/2022 |  1.2   |                Padronização do versionamento                 | Jackes da Fonseca            |
+| 08/02/2022 |  1.1   |  Adicionando informações sobre o cronograma     | Jackes Fonseca  |
+| 08/02/2022 |  1.2   |                Padronização do versionamento                 | Jackes Fonseca            |

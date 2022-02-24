@@ -16,6 +16,6 @@
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
 | 13/02/2022 |  1.0   |                Gravação do vídeo                 | Todos os integrantes            |
 | 13/02/2022 |  1.1   |                Criação dos slides                 | Todos os integrantes            |
-| 14/02/2022 |  1.2   |                Criação do documento                 | Jackes da Fonseca            |
-| 14/02/2022 |  1.3   |                Adicionando vídeo da apresentação                 | Jackes da Fonseca            |
-| 14/02/2022 |  1.4   |                Adicionando slides da apresentação                 | Jackes da Fonseca            |
+| 14/02/2022 |  1.2   |                Criação do documento                 | Jackes Fonseca            |
+| 14/02/2022 |  1.3   |                Adicionando vídeo da apresentação                 | Jackes Fonseca            |
+| 14/02/2022 |  1.4   |                Adicionando slides da apresentação                 | Jackes Fonseca            |
