@@ -6,7 +6,7 @@
   - [Processo de design](docs/planejamento/docs/processosdesign.md)
   - [Cronograma de atividades](docs/planejamento/docs/cronograma.md)
  
- - **Contexto de Uso**
+- **Contexto de Uso**
 
   - [Perfil do usuário](docs/planejamento/docs/listadesites.md)
   - [Personas](docs/planejamento/docs/listadesites.md)
