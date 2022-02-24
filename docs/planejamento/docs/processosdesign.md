@@ -1,4 +1,4 @@
-# Processos de design
+# 1. Introdução
 
 <p> O design é um processo que envolve as seguintes atividades básicas:</p>
 
@@ -11,9 +11,9 @@
 <br>
 <br>
 
-## Engenharia de Usabilidade de Mayhew
+## 2.Metodologia
 
-<p>Esse processo de design reune e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura 1 mostra as três fases desse processo interativo:</p>
+<p>A Engenharia de Usabilidade de Mayhew reune e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura 1 mostra as três fases desse processo interativo:</p>
 
 <br>
 
@@ -48,7 +48,7 @@
 
 ## Versionamento
 
-| Versão | Data       | Modificação                                      | Autor          |
+| Versão | Data       | Descrição                                      | Autor(es)          |
 | ------ | ---------- | ------------------------------------------------ | -------------- |
 | 1.0    | 07/02/2022 | Criação do documento                             | Isadora Soares |
 | 1.1    | 08/02/2022 | Adicionando informações sobre processo de design | Isadora Soares |
