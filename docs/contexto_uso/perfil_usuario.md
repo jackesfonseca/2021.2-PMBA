@@ -11,4 +11,4 @@
 
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
-| 1.0    |        | Criação do documento    |  Jackes Fonseca                |
+| 1.0    | 24/02/2022       | Criação do documento    |  Jackes Fonseca                |
