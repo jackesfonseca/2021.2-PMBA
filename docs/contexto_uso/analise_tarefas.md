@@ -30,3 +30,5 @@ SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Compu
 | 1.0    | 24/02/2022       | Criação do documento    |  Jackes Fonseca   |
 | 1.1    | 24/02/2022  |     Introdução          |  Carlos Rafael    |
 | 1.2    | 24/02/2022  |     Metodologia         |  Herick Lima      |
+| 1.3    | 27/02/2022  | + informações de metodologia | Herick Lima  |
+| 1.4    | 27/02/2022  | + informações de introdução | Carlos Rafael  |
