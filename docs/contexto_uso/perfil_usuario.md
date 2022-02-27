@@ -36,3 +36,4 @@ Estudo tirado de um questionário feito pela Google que tem como objetivo docume
 | 1.0    | 24/02/2022       | Criação do documento    |  Jackes Fonseca                |
 | 2.0    | 27/02/2022       | Criação da introdução    |  Eduardo Gurgel |
 | 3.0    | 27/02/2022       | Primeira escrita do documento   | Matheus Salim de Oliveira |
+| 4.0    | 27/02/2022       | Adição do Questionário    |  Eduardo Gurgel |
