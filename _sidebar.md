@@ -8,14 +8,15 @@
 
 - **Contexto de Uso**
 
+  - [Análise de tarefas](docs/contexto_uso/analise_tarefas.md)
   - [Perfil do usuário](docs/contexto_uso/perfil_usuario.md)
   - [Personas](docs/contexto_uso/personas.md)
-  - [Análise de tarefas](docs/contexto_uso/analise_tarefas.md)
   - [Storyboard](docs/contexto_uso/storyboard.md)
 
 - **Apresentações**
 
   - [Apresentação 1](docs/apresentacoes/apresentacao1.md)
+  - [Apresentação 2](docs/apresentacoes/apresentacao2.md)
 
 - **Sprints**
 
