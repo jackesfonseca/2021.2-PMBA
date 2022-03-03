@@ -52,7 +52,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
         <img src="https://avatars.githubusercontent.com/u/80415489?v=4" width="100px;" alt="Foto Matheus Salim
 "/><br>
         <sub>
-          <b>matheussalimdeoliveira
+          <b>Matheus Salim
 </b>
         </sub>
       </a>
