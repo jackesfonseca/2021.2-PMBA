@@ -52,14 +52,14 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
         <img src="https://avatars.githubusercontent.com/u/80415489?v=4" width="100px;" alt="Foto Matheus Salim
 "/><br>
         <sub>
-          <b>matheussalimdeoliveira
+          <b>Matheus Salim
 </b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62192072?v=4" width="100px;" alt="Foto Carlos Rafael
+        <img src="https://res.cloudinary.com/dcy5jian9/image/upload/v1646312963/minhaft_zgspj5.jpg" height="75px "width="100px;" alt="Foto Carlos Rafael
 "/><br>
         <sub>
           <b>Carlos Rafael
