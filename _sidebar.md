@@ -13,6 +13,12 @@
   - [Personas](docs/contexto_uso/personas.md)
   - [Storyboard](docs/contexto_uso/storyboard.md)
 
+- **Avaliação**
+
+  - [Princípios gerais do projeto](docs/avaliacao/principios_projeto.md)
+  - [Metas de usabilidade](docs/avaliacao/metas_usabilidade.md)
+  - [Guia de estilo](docs/avaliacao/guia_estilo.md)
+
 - **Apresentações**
 
   - [Apresentação 1](docs/apresentacoes/apresentacao1.md)
