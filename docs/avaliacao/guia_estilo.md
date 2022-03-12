@@ -1,21 +1,21 @@
 ## 1. Introdução
-   
-   Usado em projetos de todos os tamanhos, mas principalmente grandes, visa reunir princípios e diretrizes através de uma documentação. É registrada as principais decisões de design, da maneira que não se perca e, que de fato sejam efetivas no processo de construção do produto em diferentes escopos/ambientes, como por exemplo as plataformas utilizadas.
+
+Muito comum em grandes projetos, porém, pode ser usado em projetos de todos os tamanhos. Visa reunir princípios e diretrizes através de uma documentação/manual. É registrada as principais decisões de design, da maneira que não se perca e, que de fato sejam efetivas no processo de construção do produto em diferentes escopos/ambientes, como por exemplo as plataformas utilizadas.
 
 ## 2. Objetivos
 
-  O principal objetivo dos guias de estilo é a comunicação entre as equipes de design e desenvolvimento do produto. Então, é de extrema importância que as decisões no guias de estilo estejam com facil acesso para consultas, e também esteja disponiveis para serem reutilizados em discussões sobre novas versões ou extensões relacionadas ao contexto, por exemplo **design de interface**. 
+O principal objetivo dos guias de estilo é a padronização, melhora na comunicação e autonomia das equipes envolvidas no processo de desenvolvimento do produto. Então, é de extrema importância que as decisões no guias de estilo estejam de fácil acesso para consultas, e também estejam disponiveis para serem reutilizadas em discussões sobre novas versões ou extensões relacionadas ao contexto.
 
 ## 3. Considerações
 
-  Um guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Marcus (1991) considera os seguintes elementos:
+Um guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Marcus (1991) considera os seguintes elementos:
 
-  • layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
-  • tipografia e seu uso em diálogos, formulários e relatórios;
-  • simbolismo: clareza e consistência no design de ícones;
-  • cores: os dez mandamentos sobre o uso de cores;
-  • visualização de informação: design de gráficos, diagramas e mapas;
-  • design de telas e elementos de interface (widgets);
+• layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
+• tipografia e seu uso em diálogos, formulários e relatórios;
+• simbolismo: clareza e consistência no design de ícones;
+• cores: os dez mandamentos sobre o uso de cores;
+• visualização de informação: design de gráficos, diagramas e mapas;
+• design de telas e elementos de interface (widgets);
 
 ## 4. Análise
 
@@ -38,7 +38,6 @@ O grid é formado por dois grupos principais de colunas:
 
 Os elementos principais de qualquer site baseado no portal padrão são os seguintes:
 
-
 - **1** Barra padrão da comunicação digital do governo federal
 - **2** Cabeçalho (header)
 - **3** Coluna de menus
@@ -56,7 +55,7 @@ Os elementos principais de qualquer site baseado no portal padrão são os segui
 
 Para a apresentação de todo o conteúdo, somente duas fontes serão itilizadas. São elas:
 
- **Open Sans & Arial**
+**Open Sans & Arial**
 
 A decisao pela escolha das duas fontes foi tomada a fim de trazer armonia, padronização e conforto na leitura e acessibilidade.
 
@@ -75,14 +74,13 @@ Para apresentar a imagem do governo a partir de uma identidade única e fornecer
 </center>
 
 ## 5. Referências
+
 1. Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
 
 ## 6. Histórico de Versão
 
-| Versão |  Data  |        Descrição        |     Autor(es)     | Revisor(es) |
-|--------|--------|-------------------------|-------------------|-------------|
-| 1.0    |  11/03/2022  | Criação do documento    |     Carlos Rafael e Herick Lima              | Carlos Rafael |
-| 1.1    |  11/03/2022  | Introdução, objetivos e considerações    |     Carlos Rafael              | Herick Lima |
-| 1.2    |  11/03/2022  | Análise e grid    |     Herick Lima              | Herick Lima |
-
-
+| Versão | Data       | Descrição                             | Autor(es)                   | Revisor(es)   |
+| ------ | ---------- | ------------------------------------- | --------------------------- | ------------- |
+| 1.0    | 11/03/2022 | Criação do documento                  | Carlos Rafael e Herick Lima | Carlos Rafael |
+| 1.1    | 11/03/2022 | Introdução, objetivos e considerações | Carlos Rafael               | Herick Lima   |
+| 1.2    | 11/03/2022 | Análise e grid                        | Herick Lima                 | Herick Lima   |
