@@ -74,15 +74,15 @@ Para apresentar a imagem do governo a partir de uma identidade única e fornecer
   <figcaption class:"center">Fonte: </figcaption>
 </center>
 
-## 6. Referências
+## 5. Referências
 1. Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 
-| Versão |  Data  |        Descrição        |     Autor(es)     | 
-|--------|--------|-------------------------|-------------------|
-| 1.0    |  11/03/2022  | Criação do documento    |     Carlos Rafael e Herick Lima              |
-| 1.1    |  11/03/2022  | Introdução, objetivos e considerações    |     Carlos Rafael              |
-| 1.2    |  11/03/2022  | Análise e grid    |     Herick Lima              |
+| Versão |  Data  |        Descrição        |     Autor(es)     | Revisor(es) |
+|--------|--------|-------------------------|-------------------|-------------|
+| 1.0    |  11/03/2022  | Criação do documento    |     Carlos Rafael e Herick Lima              | Carlos Rafael |
+| 1.1    |  11/03/2022  | Introdução, objetivos e considerações    |     Carlos Rafael              | Herick Lima |
+| 1.2    |  11/03/2022  | Análise e grid    |     Herick Lima              | Herick Lima |
 
 
