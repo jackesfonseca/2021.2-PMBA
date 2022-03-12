@@ -1,7 +1,41 @@
 ## 1. Introdução
+   
+   Usado em projetos de todos os tamanhos, mas principalmente grandes, visa reunir princípios e diretrizes através de uma documentação. É registrada as principais decisões de design, da maneira que não se perca e, que de fato sejam efetivas no processo de construção do produto em diferentes escopos/ambientes, como por exemplo as plataformas utilizadas.
+
+## 2. Objetivos
+
+  O principal objetivo dos guias de estilo é a comunicação entre as equipes de design e desenvolvimento do produto. Então, é de extrema importância que as decisões no guias de estilo estejam com facil acesso para consultas, e também esteja disponiveis para serem reutilizados em discussões sobre novas versões ou extensões relacionadas ao contexto, por exemplo **design de interface**. 
+
+## 3. Considerações
+
+  Um guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Marcus (1991) considera os seguintes elementos:
+
+  • layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
+  • tipografia e seu uso em diálogos, formulários e relatórios;
+  • simbolismo: clareza e consistência no design de ícones;
+  • cores: os dez mandamentos sobre o uso de cores;
+  • visualização de informação: design de gráficos, diagramas e mapas;
+  • design de telas e elementos de interface (widgets);
+
+## 4. Análise
+
+Antes de realizar a análise do site da PM da Bahia e entender as mudanças necessarias, foi preciso entender o guia padrão de estilização e comunicação visual do governo. O modelo em questão se chama "Guia de Estilo do Portal Institucional Padrão" e trás um guia de estilo completo, mostrando como os sites institucionais devem se comportar em suas atividades, como o sites devem ser visualmente e padroniza sua identidade visual como um todo.
+
+### 4.1. Elementos primncipais
+
+Os elementos principais de qualquer site baseado no portal padrão são os seguintes:
+
+- 1 Barra padrão da comunicação digital do governo federal
+- 2 Cabeçalho (header)
+- 3 Coluna de menus
+- 4 Miolo
+- 5 Rodapé
+- 6 Barra inferior da identidade padrão de comunicação digital do governo federal
 
 
-## 2. Metodologia
+
+#### 4.1.1 Estrutura principal
+
 
 <center>
   <figcaption class="center">Figura 1: descricao</figcaption>
@@ -9,14 +43,14 @@
   <figcaption class:"center">Fonte: </figcaption>
 </center>
 
-## 3. Conclusão
+## 5. Conclusão
 
 
-## 4. Referências
-1. 
+## 6. Referências
+1. Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
 
 ## 5. Histórico de Versão
 
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
-| 1.0    |  xx/xx/xxxx  | Criação do documento    |                   |
+| 1.0    |  11/03/2022  | Criação do documento    |     Carlos Rafael e Herick Lima              |
