@@ -66,7 +66,7 @@ Para apresentar a imagem do governo a partir de uma identidade única e fornecer
 
 <br>
 
-![](../assets/paleta.png)clube dos canalhas
+![](../assets/paleta.png)
 
 <center>
   <figcaption class="center">Figura 1: descricao</figcaption>
