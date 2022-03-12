@@ -21,30 +21,58 @@
 
 Antes de realizar a análise do site da PM da Bahia e entender as mudanças necessarias, foi preciso entender o guia padrão de estilização e comunicação visual do governo. O modelo em questão se chama "Guia de Estilo do Portal Institucional Padrão" e trás um guia de estilo completo, mostrando como os sites institucionais devem se comportar em suas atividades, como o sites devem ser visualmente e padroniza sua identidade visual como um todo.
 
-### 4.1. Elementos primncipais
+### 4.1 Grid
+
+O grid é formado por dois grupos principais de colunas:
+
+- **1** o grupo da esquerda, que conterá sempre o Coluna de Menus, com 150 pixels.
+- **2** o grupo da direit, que receberá o conteúdo principal de cada página, tem 750 pixels.
+
+<br>
+
+![](../assets/grid.png)
+
+<br>
+
+### 4.2. Elementos principais
 
 Os elementos principais de qualquer site baseado no portal padrão são os seguintes:
 
-- 1 Barra padrão da comunicação digital do governo federal
-- 2 Cabeçalho (header)
-- 3 Coluna de menus
-- 4 Miolo
-- 5 Rodapé
-- 6 Barra inferior da identidade padrão de comunicação digital do governo federal
 
+- **1** Barra padrão da comunicação digital do governo federal
+- **2** Cabeçalho (header)
+- **3** Coluna de menus
+- **4** Miolo
+- **5** Rodapé
+- **6** Barra inferior da identidade padrão de comunicação digital do governo federal
 
+<br>
 
-#### 4.1.1 Estrutura principal
+![](../assets/estruturaprincipal.png)
 
+<br>
+
+### 4.3 Tipografia
+
+Para a apresentação de todo o conteúdo, somente duas fontes serão itilizadas. São elas:
+
+ **Open Sans & Arial**
+
+A decisao pela escolha das duas fontes foi tomada a fim de trazer armonia, padronização e conforto na leitura e acessibilidade.
+
+### 4.2 Cores
+
+Para apresentar a imagem do governo a partir de uma identidade única e fornecer maior articulação aos órgãos, foi desenvolvida uma paleta de cores derivadas de signos nacionais, tais como a bandeira nacional, os brasões, insígnias, entre outros.
+
+<br>
+
+![](../assets/paleta.png)clube dos canalhas
 
 <center>
   <figcaption class="center">Figura 1: descricao</figcaption>
   <img src="" class="center"><br> 
   <figcaption class:"center">Fonte: </figcaption>
 </center>
-
-## 5. Conclusão
-
 
 ## 6. Referências
 1. Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
@@ -54,3 +82,7 @@ Os elementos principais de qualquer site baseado no portal padrão são os segui
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
 | 1.0    |  11/03/2022  | Criação do documento    |     Carlos Rafael e Herick Lima              |
+| 1.1    |  11/03/2022  | Introdução, objetivos e considerações    |     Carlos Rafael              |
+| 1.2    |  11/03/2022  | Análise e grid    |     Herick Lima              |
+
+
