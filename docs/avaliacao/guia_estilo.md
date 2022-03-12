@@ -109,19 +109,10 @@ Os pictorgramas auxiliam no entendimento do conteúdo e podem ser utilizados em 
 
 ## 6. Histórico de Versão
 
-<<<<<<< HEAD
-| Versão |  Data  |        Descrição        |     Autor(es)     | Revisor(es) |
-|--------|--------|-------------------------|-------------------|-------------|
-| 1.0    |  11/03/2022  | Criação do documento    |     Carlos Rafael e Herick Lima              | Carlos Rafael |
-| 1.1    |  11/03/2022  | Introdução, objetivos e considerações    |     Carlos Rafael              | Herick Lima |
-| 1.2    |  11/03/2022  | Análise e grid    |     Herick Lima      | Herick Lima |
-| 1.3    |  11/03/2022  | Cores e ícones    |     Herick Lima      | Herick Lima |
-
-
-=======
 | Versão | Data       | Descrição                             | Autor(es)                   | Revisor(es)   |
 | ------ | ---------- | ------------------------------------- | --------------------------- | ------------- |
 | 1.0    | 11/03/2022 | Criação do documento                  | Carlos Rafael e Herick Lima | Carlos Rafael |
 | 1.1    | 11/03/2022 | Introdução, objetivos e considerações | Carlos Rafael               | Herick Lima   |
 | 1.2    | 11/03/2022 | Análise e grid                        | Herick Lima                 | Herick Lima   |
->>>>>>> 579a8c81cc12848f760bf74633c5d655a742442e
+| 1.3    |  11/03/2022  | Cores e ícones    |     Herick Lima      | Herick Lima |          | Herick Lima   |
+
