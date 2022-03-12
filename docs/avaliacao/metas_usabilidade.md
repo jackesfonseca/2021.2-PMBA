@@ -7,7 +7,7 @@ As metas de usabilidade possuem o objetivo de fornecer ao designer de interaçã
 
 - Eficácia: Esta meta é descrita como "ser eficaz no uso", e no geral se refere a quanto um produto é bom em fazer o que se espera dele.
 - Eficiência: Esta meta é descrita como "ser eficiente no uso", e no geral se refere à maneira como um produto ajuda os usuários na realização de suas tarefas
-- Segurança:A segurança envolve, primordialmente, proteger o usuário de condições perigosas e situações indesejáveis.
+- Segurança: A segurança envolve, primordialmente, proteger o usuário de condições perigosas e situações indesejáveis.
 - Utilidade
 - Learnability
 - Memorability
