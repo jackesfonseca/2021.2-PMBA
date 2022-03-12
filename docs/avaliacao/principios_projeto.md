@@ -30,7 +30,6 @@ Quatro abordagens tecnológicas podem ser seguidas para simplificar a estrutura 
 ### Equilíbrio entre controle e liberdade do usuário
 
 Nesse princípio, Norman (1988); Nielsen (1994c); Tognazzini (2014); Shneiderman (1998); Cooper (1999) vão destacar o quão importante é manter o usuário no controle. Além disso Normam recomenda explorar o poder das restrições, tanto naturais como artificiais. Este principio ainda suguere que, os usuários não devem ficar presos num caminho de interação único para realizar uma atividade e também que é necessário fornecer aos usuários uma “saída” clara e rápida, mas deve ser mais fácil se manter “no caminho” do que sair dele.
-Dessa forma quando se utiliza o site de Unaí, o usuário não tem total controle. Ao clicar em transparência ou IPTU, é redirecionado para uma nova aba e com layout diferente, sem ser alertado dessa informação, sem ter controle da situação.
 
 ### Consistência e padronização
 
@@ -52,7 +51,6 @@ No princípio de Antecipação, as aplicações devem tentar prever o que o usu�
 ### Conteúdo relevante e expressão adequada
 
 No princípio conteúdo relevante e expressão adequada, é preciso que o projeto seja estético e minimalista, as mensagens de instrução e ajuda devem ser concisas e informativas sobre problemas que ocorrerem, os rótulos de menus e botões devem ser claros e livres de ambiguidade, certifique-se de que o texto também seja legível.
-Dessa forma, quando se olha para o site de Unaí, utilizando um celular os tamanhos de fonte não ficam suficientemente grandes para serem lidos em telas de tamanho e resolução padrão, já na solução web o site responde bem nesse caso.
 
 ### Projetar para erros
 
