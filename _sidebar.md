@@ -23,6 +23,7 @@
 
   - [Apresentação 1](docs/apresentacoes/apresentacao1.md)
   - [Apresentação 2](docs/apresentacoes/apresentacao2.md)
+  - [Apresentação 2](docs/apresentacoes/apresentacao3.md)
 
 - **Sprints**
 
