@@ -1,12 +1,10 @@
 - **Planejamento**
-
   - [Lista de sites avaliados](docs/planejamento/lista_sites.md)
   - [Site escolhido](docs/planejamento/site.md)
   - [Ferramentas do projeto](docs/planejamento/ferramentas.md)
   - [Cronograma de atividades](docs/planejamento/cronograma.md)
 
 - **Processo de Design**
-
   - [Processo de design](docs/processo_design/processo_design.md)
   
 - **Análise de Requisitos**
@@ -25,11 +23,9 @@
   - **Nível 3**
 
 - **Apresentações**
-
   - [Apresentação 1](docs/apresentacoes/apresentacao1.md)
   - [Apresentação 2](docs/apresentacoes/apresentacao2.md)
   - [Apresentação 3](docs/apresentacoes/apresentacao3.md)
 
 - **Sprints**
-
   - [Sprint 1](docs/sprint/healtcheck.md)
