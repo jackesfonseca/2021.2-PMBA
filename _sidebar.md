@@ -1,29 +1,30 @@
 - **Planejamento**
-
   - [Lista de sites avaliados](docs/planejamento/lista_sites.md)
   - [Site escolhido](docs/planejamento/site.md)
   - [Ferramentas do projeto](docs/planejamento/ferramentas.md)
-  - [Processo de design](docs/planejamento/processos_design.md)
   - [Cronograma de atividades](docs/planejamento/cronograma.md)
 
-- **Contexto de Uso**
+- **Processo de Design**
+  - [Processo de design](docs/processo_design/processo_design.md)
+  
+- **Análise de Requisitos**
+  - [Análise de tarefas](docs/analise_requisitos/contexto_uso/analise_tarefas.md)
+  - [Perfil do usuário](docs/analise_requisitos/contexto_uso/perfil_usuario.md)
+  - [Personas](docs/analise_requisitos/contexto_uso/personas.md)
+  - [Storyboard](docs/analise_requisitos/contexto_uso/storyboard.md)
+  - [Princípios gerais do projeto](docs/analise_requisitos/principios_projeto.md)
+  - [Metas de usabilidade](docs/analise_requisitos/metas_usabilidade.md)
+  - [Guia de estilo](docs/analise_requisitos/guia_estilo.md)
 
-  - [Análise de tarefas](docs/contexto_uso/analise_tarefas.md)
-  - [Perfil do usuário](docs/contexto_uso/perfil_usuario.md)
-  - [Personas](docs/contexto_uso/personas.md)
-  - [Storyboard](docs/contexto_uso/storyboard.md)
-
-- **Avaliação**
-
-  - [Princípios gerais do projeto](docs/avaliacao/principios_projeto.md)
-  - [Metas de usabilidade](docs/avaliacao/metas_usabilidade.md)
-  - [Guia de estilo](docs/avaliacao/guia_estilo.md)
+- **Design, Avaliação e Desenvolvimento**
+  - **Nível 1**
+  - **Nível 2**
+  - **Nível 3**
 
 - **Apresentações**
-
   - [Apresentação 1](docs/apresentacoes/apresentacao1.md)
   - [Apresentação 2](docs/apresentacoes/apresentacao2.md)
+  - [Apresentação 3](docs/apresentacoes/apresentacao3.md)
 
 - **Sprints**
-
   - [Sprint 1](docs/sprint/healtcheck.md)
