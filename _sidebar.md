@@ -8,11 +8,10 @@
   - [Processo de design](docs/processo_design/processo_design.md)
   
 - **Análise de Requisitos**
-  - **Contexto de Uso**
-    - [Análise de tarefas](docs/analise_requisitos/contexto_uso/analise_tarefas.md)
-    - [Perfil do usuário](docs/analise_requisitos/contexto_uso/perfil_usuario.md)
-    - [Personas](docs/analise_requisitos/contexto_uso/personas.md)
-    - [Storyboard](docs/analise_requisitos/contexto_uso/storyboard.md)
+  - [Análise de tarefas](docs/analise_requisitos/contexto_uso/analise_tarefas.md)
+  - [Perfil do usuário](docs/analise_requisitos/contexto_uso/perfil_usuario.md)
+  - [Personas](docs/analise_requisitos/contexto_uso/personas.md)
+  - [Storyboard](docs/analise_requisitos/contexto_uso/storyboard.md)
   - [Princípios gerais do projeto](docs/analise_requisitos/principios_projeto.md)
   - [Metas de usabilidade](docs/analise_requisitos/metas_usabilidade.md)
   - [Guia de estilo](docs/analise_requisitos/guia_estilo.md)
