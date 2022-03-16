@@ -15,7 +15,7 @@ A metodologia utilizada para a estruturação desse documento é baseada no Fram
 - **Decide**: Decidir como lidar com as questões éticas;
 - **Evaluate:** Avaliar, interpretar e apresentar os dados coletados;
 
-De acordo com o Framework **DECIDE** e com as diversas técnicas apresentadas por Barbosa et al., o método escolhido para a avaliação foi o de Participação Ativa em um Percurso Cognitivo, onde o usuário percorrerá o domínio da Prefeitura de Concórida de acordo com o instruido pelo avaliador, através de uma Entrevistas com as Personas do projeto, para então comparar com os storyboards confeccionados pelo grupo. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva.
+De acordo com o Framework **DECIDE** e com as diversas técnicas apresentadas por Barbosa et al., o método escolhido para a avaliação foi o de Participação Ativa em um Percurso Cognitivo, onde o usuário percorrerá o domínio da Polícia Militar da Bahia de acordo com o instruido pelo avaliador, através de uma Entrevistas com as Personas do projeto, para então comparar com os storyboards confeccionados pelo grupo. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva.
 
 ### Questionário
 
