@@ -45,8 +45,8 @@ Ponto de controle focado na avaliação do storyboard, avaliação da análise d
 
 | Tarefa                                                                      | Data limite de entrega | Autor(es) | Revisor(es) |
 |-----------------------------------------------------------------------------| --------------- | -----------|-------------|
-| Planejamento da avaliação do Storyboard                                     | 16/03/2022      | Jackes Fonseca e Matheus Salim | Isadora Soares |
-| Planejamento do relato dos resultados da avaliação do Storyboard            | 16/03/2022      | Isadora Soares | Carlos Rafael |
+| Planejamento da avaliação do Storyboard                                     | 16/03/2022      | Jackes Fonseca e Matheus Salim | Carlos Rafael |
+| Planejamento do relato dos resultados da avaliação do Storyboard            | 16/03/2022      | Isadora Soares | Jackes Fonseca |
 | Planejamento da Avaliação da Análise de tarefas                             | 16/03/2022      | Eduardo Gurgel | Herick Lima |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas    | 16/03/2022      | Carlos Rafael e Herick lima | Isadora Soares |
 
