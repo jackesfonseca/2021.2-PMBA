@@ -2,7 +2,7 @@
 A avaliação de IHC é uma atividade essencial, quando se busca produzir sistemas interativos de alta qualidade e que atenda as necessidades dos usuários. Além disso, a avaliação orienta o avaliador no julgamento do software analisado, bem como, auxilia na identificação de problemas de interação na interface que prejudiquem a experiência do usuário.
 
 
-A preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa et al., 2021, pág. 106), e com o objetivo de conduzir a avaliação do [Storyboard](../../analise_requisitos/contexto_uso/storyboard.md) da Polícia Militar da Bahia, a criação e utilização desse documento se faz essencial.
+A preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa et al., 2021, pág. 106), e com o objetivo de conduzir a avaliação do [Storyboard](https://interacao-humano-computador.github.io/2021.2-PMBA/#/docs/analise_requisitos/contexto_uso/storyboard) da Polícia Militar da Bahia, a criação e utilização desse documento se faz essencial.
 
 Como já explicado anteriormente, o storyboard é um exemplo de prototipação de baixa fidelidade, geralmente utilizado em conjunto com cenários. Consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido, no caso de um software baseado em interface gráfica com o usuário (GUI), pode se tratar de telas esboçadas. Dentre alguns benefícios da sua utilização estão:
 
@@ -49,7 +49,7 @@ Conforme o acrônimo do Framework DECIDE, os avaliadores devem decidir como lida
 
 ## 4. Conclusão
     
-Clique [aqui](avaliacao_storyboard.md) para visualizar o resultado da Avaliação do Storyboard
+Clique [aqui](https://interacao-humano-computador.github.io/2021.2-PMBA/#/docs/design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard) para visualizar o resultado da Avaliação do Storyboard
     
 ## 3. Referências
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
