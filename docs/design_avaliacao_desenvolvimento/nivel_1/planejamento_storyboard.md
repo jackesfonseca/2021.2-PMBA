@@ -33,9 +33,9 @@ Levando em conta os objetivos de um planejamento, foi preparado um roteiro conte
 | Q02    | Qual sua ocupação?             | Discursiva   |
 | Q03    | Você já acessou o site da Polícia militar da Bahia? | Sim () <br> Não () |
 | Q03.1  | [Caso a resposta do item Q03 tenha sido SIM] Em uma escala de 1 à 5, qual seu grau de satisfação com o design do site? | 1 () <br> 2 () <br> 3 () <br> 4 () <br> 5 ()|
-| Q03.2  | [Caso a resposta do item Q03 tenha sido SIM] Você já utilizou a funcionalidade [X](planejamento_storyboard.md)? | Sim () <br> Não () |
-| Q03.3  | [Caso a resposta do item Q03.2 tenha sido SIM] Como você descreveria o grau de dificuldade de utilização da funcionalidade [X](planejamento_storyboard.md)? | Discursiva |
-| Q04    | Após utilizar a funcionalidade [X](planejamento_storyboard.md) você notou alguma diferença com o storyboard apresentado? | Sim () <br> Não () |
+| Q03.2  | [Caso a resposta do item Q03 tenha sido SIM] Você já utilizou a funcionalidade **X**? | Sim () <br> Não () |
+| Q03.3  | [Caso a resposta do item Q03.2 tenha sido SIM] Como você descreveria o grau de dificuldade de utilização da funcionalidade **X**? | Discursiva |
+| Q04    | Após utilizar a funcionalidade **X** você notou alguma diferença com o storyboard apresentado? | Sim () <br> Não () |
 | Q04.1  | [Caso a resposta do item Q04 tenha sido SIM] Quais aspectos você notou que não está representado no storyboard? | Discursiva |
 
 ### Termo de concentimento
