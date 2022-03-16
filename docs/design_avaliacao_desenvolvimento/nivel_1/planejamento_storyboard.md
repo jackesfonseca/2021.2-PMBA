@@ -47,14 +47,14 @@ Conforme o acrônimo do Framework DECIDE, os avaliadores devem decidir como lida
     <img src="https://user-images.githubusercontent.com/53023400/158609487-720ab906-1837-4595-8e6e-88a68fe9d384.jpg">
 </center>
 
-## 4. Conclusão
+## 3. Conclusão
     
 Clique [aqui](https://interacao-humano-computador.github.io/2021.2-PMBA/#/docs/design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard) para visualizar o resultado da Avaliação do Storyboard
     
-## 3. Referências
+## 4. Referências
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
-## 4. Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
