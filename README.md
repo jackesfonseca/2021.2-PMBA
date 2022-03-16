@@ -7,7 +7,7 @@ Repositório para desenvolvimento do projeto da disciplina IHC. FGA - UnB.
 
 ## 1. Sobre o projeto
 
-Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da [Polícia Militar do estado da Bahia](http://www.pm.ba.gov.br/index.php), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade para a área destinada ao serviço de segurança pública.
+Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da Polícia Militar do estado da Bahia, aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade para a área destinada ao serviço de segurança pública.
 
 ## Colaboradores
 
