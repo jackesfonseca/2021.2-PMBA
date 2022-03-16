@@ -1,7 +1,7 @@
 ## 1. Introdução
 
 A avaliação do [Storyboard](https://interacao-humano-computador.github.io/2021.2-PMBA/#/docs/analise_requisitos/contexto_uso/storyboard) tem como objetivo validar o protótipo desenhado para cada funcionalidade do sistema.<br/>
-O objetivo do storyboard é demonstrar as tarefa do sistema através de um protótipo.
+O objetivo do storyboard é demonstrar as tarefas do sistema através de um protótipo.
 
 ## 2. Metodologia
 
@@ -16,7 +16,7 @@ A metodologia utilizada para avaliação do storyboard foi uma entrevista com um
 | Número | Pergunta                                                                                                                                                                                   | Resposta                                                                                                   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | Q01    | Qual seu nome e idade?                                                                                                                                                                     | Elenis Kamilla, 38 anos                                                                                    |
-| Q02    | Qual sua ocupação?                                                                                                                                                                         | Policial ilitar                                                                                            |
+| Q02    | Qual sua ocupação?                                                                                                                                                                         | Policial militar                                                                                           |
 | Q03    | Você já acessou o site da Polícia militar da Bahia?                                                                                                                                        | Sim (x) <br> Não ()                                                                                        |
 | Q03.1  | [Caso a resposta do item Q03 tenha sido SIM] Em uma escala de 1 à 5, qual seu grau de satisfação com o design do site?                                                                     | 1 (x) <br> 2 () <br> 3 () <br> 4 () <br> 5 ()                                                              |
 | Q03.2  | [Caso a resposta do item Q03 tenha sido SIM] Você já utilizou a funcionalidade verificar as notícias do site da Polícia militar da Bahia?                                                  | Sim () <br> Não (x)                                                                                        |
