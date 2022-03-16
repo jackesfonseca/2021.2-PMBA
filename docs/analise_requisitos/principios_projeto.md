@@ -6,10 +6,12 @@ Os princípios gerais para um projeto são objetivos gerais e de alto nível que
 
 Os princípios que serão utilizado pela equipe serão os apontados por Norman (1988). Esses são comumente utilizados em IHC e giram em torno dos seguintes tópicos:
 
-- Equilíbrio entre controle e liberdade do usuário
+- Correspondência com a expectativa do usuário
 - Simplicidade nas estruturas das tarefas
-- Promovendo a eficiência do usuário
+- Equilíbrio entre controle e liberdade do usuário
 - Consistência e padronização
+- Promovendo a eficiência do usuário
+- Visibilidade e Reconhecimento
 - Antecipação
 - Conteúdo relevante e expressão adequada
 - Projeto para erros
@@ -36,7 +38,7 @@ Nesse princípio, Norman (1988); Nielsen (1994c); Tognazzini (2014); Shneiderman
 É recomendado por Norman (1988), que se assegure a consistência da interface com o modelo conceitual embutido no sistema. Dessa maneira é importante que se padronize as ações, os resultados das ações, o layout dos diálogos e as visualizações de informação:
 No site os usuários não devem ter de se perguntar se palavras, situações ou ações diferentes significam a mesma coisa.
 
-### Promovendo a Eficiência do Usuário
+### Promovendo a eficiência do usuário
 
 Tognazzini (2014) recomenda considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador. As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento.
 

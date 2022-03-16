@@ -1,6 +1,6 @@
 # Cronograma de atividades
 
-O cronograma tem como objetivo definir um planejamento das tarefas entregues e suas datas. A matéria (Interação Humano Computador da Univerdade de Brasília) por si só já tem um planejamento pré definido, sendo as datas de entrega chamadas de **ponto de controle**. Todas as **entregas serão realizadas 1 dia antes** da data descrita no cronograma para que a **revisão possa ser feita no dia da entrega**.
+O cronograma tem como objetivo definir um planejamento das tarefas entregues e suas datas. A matéria (Interação Humano Computador da Univerdade de Brasília) por si só já tem um planejamento pré definido, sendo as datas de entrega chamadas de **ponto de controle**. Todas as **entregas serão realizadas 1 dia antes** da data limite descrita no cronograma para que a **revisão possa ser feita no dia da entrega**.
 
 Com base no plano de ensino e as entregas definidas pelo professor, nosso grupo organizou o cronograma em 7 pontos de controle além da apresentação final:
 
@@ -8,7 +8,7 @@ Com base no plano de ensino e as entregas definidas pelo professor, nosso grupo 
 
 Ponto de controle focado em avaliar o sistema, entender o problema, definir o escopo e fazer o planejamento da equipe e do projeto.
 
-| Tarefa                                   | Data da entrega | Autor(es) | Revisor(es) |
+| Tarefa                                   | Data limite de entrega | Autor(es) | Revisor(es) |
 | ---------------------------------------- | --------------- |-----------|-------------|
 | Lista de sites avaliados                 | 13/02/2022      | Matheus Salim | Herik Lima e Isadora Soares |
 | Site selecionado para a disciplina       | 13/02/2022      | Eduardo Gurgel | Carlos Rafael |
@@ -23,7 +23,7 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 
 Ponto de controle com foco em identificar nosso usuário, fazer a análise de tarefas, personas.
 
-| Tarefa                        | Data da entrega | Autor(es) | Revisor(es) |
+| Tarefa                        | Data limite de entrega | Autor(es) | Revisor(es) |
 | ----------------------------- | --------------- |-----------|-------------|
 | Perfil do Usuário             | 27/02/2022      | Eduardo Gurgel e Matheus Salim | Isadora Soares e Jackes fonseca |
 | Personas                      | 27/02/2022      | Isadora Soares e Jackes fonseca | Carlos Rafael e Herick Lima |
@@ -33,7 +33,7 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 
 Ponto de controle focado em metas de usabilidade, guias de estilo.
 
-| Tarefa                          | Data da entrega | Autor(es) | Revisor(es) |
+| Tarefa                          | Data limite de entrega | Autor(es) | Revisor(es) |
 | ------------------------------- | --------------- |-----------|-------------|
 | Princípios gerais de projeto    | 12/03/2022      | Jackes Fonseca e Matheus Salim | Eduardo Gurgel e Isadora Soares |
 | Metas de usabilidade            | 12/03/2022      | Eduardo Gurgel e Isadora Soares | Carlos Rafael e Herick Lima |
@@ -43,19 +43,19 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 
 Ponto de controle focado na avaliação do storyboard, avaliação da análise de tarefas.
 
-| Tarefa                                                                      | Data da entrega | Autor(es) | Revisor(es) |
-| :---------------------------------------------------------------------------| --------------- | -----------|-------------|
-| Planejamento da avaliação do Storyboard                                     | 16/03/2022      | Não definido | Não definido |
-| Planejamento do relato dos resultados da avaliação do Storyboard            | 16/03/2022      | Não definido | Não definido |
-| Planejamento da Avaliação da Análise de tarefas                             | 16/03/2022      | Não definido | Não definido |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas    | 16/03/2022      | Não definido | Não definido |
+| Tarefa                                                                      | Data limite de entrega | Autor(es) | Revisor(es) |
+|-----------------------------------------------------------------------------| --------------- | -----------|-------------|
+| Planejamento da avaliação do Storyboard                                     | 16/03/2022      | Jackes Fonseca e Matheus Salim | Isadora Soares |
+| Planejamento do relato dos resultados da avaliação do Storyboard            | 16/03/2022      | Isadora Soares | Carlos Rafael |
+| Planejamento da Avaliação da Análise de tarefas                             | 16/03/2022      | Eduardo Gurgel | Herick Lima |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas    | 16/03/2022      | Carlos Rafael e Herick lima | Isadora Soares |
 
 
 ## 5º Ponto de Controle - Apresentação do projeto etapa 5 (31/03)
 
 Ponto de controle focado na análise dos resultados do Storyboard, avaliação do protótipo de Papel.
 
-| Tarefa                                                                              | Data da entrega | Autor(es) | Revisor(es) |
+| Tarefa                                                                              | Data limite de entrega | Autor(es) | Revisor(es) |
 | :---------------------------------------------------------------------------------- | --------------- |-----------|-------------| 
 | Relato dos resultados do Storyboard e da Análise de tarefas                         | 30/03/2022      | Não definido | Não definido |
 | Planejamento da Avaliação do Protótipo de Papel                                     | 30/03/2022      | Não definido | Não definido |
@@ -65,7 +65,7 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 
 Ponto de controle focado na verificação dos artefatos
 
-| Tarefa                               | Data da entrega | Autor(es) | Revisor(es) |
+| Tarefa                               | Data limite de entrega | Autor(es) | Revisor(es) |
 | :----------------------------------- | --------------- |-----------|-------------|
 | Verificação dos artefatos            | 06/04/2022      | Não definido | Não definido |
 
@@ -73,7 +73,7 @@ Ponto de controle focado na verificação dos artefatos
 
 Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar melhorias para a entrega do projeto
 
-| Tarefa                                                                                     | Data da entrega |  Autor(es) | Revisor(es) |
+| Tarefa                                                                                     | Data limite de entrega |  Autor(es) | Revisor(es) |
 | :----------------------------------------------------------------------------------------- | --------------- |-----------|-------------|
 |  Relato dos resultados do Protótipo de Papel                                               | 11/04/2022      | Não definido | Não definido |
 |  Planejamento da Avaliação do protótipo de alta fidelidade                                 | 11/04/2022      | Não definido | Não definido |
@@ -83,7 +83,7 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 
 Apresentação final do projeto da disciplina
 
-| Tarefa                               | Data da entrega |  Autor(es) | Revisor(es) |
+| Tarefa                               | Data limite de entrega |  Autor(es) | Revisor(es) |
 | :----------------------------------- | --------------- |-----------|-------------|
 | Entrega do projeto final             | 25/04/2022      | Não definido | Não definido |
 
