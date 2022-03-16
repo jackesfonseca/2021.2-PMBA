@@ -34,18 +34,19 @@ Levando em conta os objetivos de um planejamento, foi preparado um roteiro conte
 
 ### Termo de concentimento
 
-Conforme o acrônimo do Framework DECIDE, o(s) avaliador(es) devem decidir como lidar com as questões éticas. Por esse motivo a equipe formulou um termo de consentimento, para que todos aqueles participantes voluntários estejam de acordo ao participarem das entrevistas.
+Conforme o acrônimo do Framework DECIDE, os avaliadores devem decidir como lidar com as questões éticas. Por esse motivo a equipe formulou um termo de consentimento, para que todos aqueles participantes voluntários estejam de acordo ao participarem das entrevistas.
 
-<object data="https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8262808/Termo.de.conscentimento.-.Storyboard.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8262808/Termo.de.conscentimento.-.Storyboard.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Interacao-Humano-Computador/2021.2-PMBA/files/8262808/Termo.de.conscentimento.-.Storyboard.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-## 3. Referências
-1. 
+<center>
+    <img src="https://user-images.githubusercontent.com/53023400/158609179-2d4c4958-f874-48be-83f9-f74d7ed4be2e.jpg"> 
+    <img src="https://user-images.githubusercontent.com/53023400/158609487-720ab906-1837-4595-8e6e-88a68fe9d384.jpg">
+</center
 
 ## 4. Conclusão
+    
+Clique [aqui](avaliacao_storyboard.md) para visualizar o resultado da Avaliação do Storyboard
+    
+## 3. Referências
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## 4. Histórico de Versão
 
