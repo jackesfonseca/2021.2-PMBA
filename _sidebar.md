@@ -29,7 +29,6 @@
   - [Apresentação 1](docs/apresentacoes/apresentacao1.md)
   - [Apresentação 2](docs/apresentacoes/apresentacao2.md)
   - [Apresentação 3](docs/apresentacoes/apresentacao3.md)
-  - [Apresentação 4](docs/apresentacoes/apresentacao4.md)
 
 - **Sprints**
   - [Sprint 1](docs/sprint/healtcheck.md)
