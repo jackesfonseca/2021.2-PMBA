@@ -22,7 +22,6 @@
   - [Avaliação do Storyboard](docs/design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md)
   - [Planejamento da Análise de Tarefas](docs/design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md)
   - [Avaliação da Análise de Tarefas](docs/design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md) 
-  - teste
   - **Nível 2**
   - **Nível 3**
 
