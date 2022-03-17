@@ -20,7 +20,7 @@
 
 ## Preparação
 &emsp;&emsp;As tarefas a serem avaliadas e suas respectivas personas e ações são:
-### Tarefa: Realizar denúncia Online
+### Tarefa 1: Realizar denúncia Online
 #### Persona: May
 #### Ações
 1. Na página inicial, clicar no menu "Público Externo"
@@ -29,7 +29,7 @@
 4. Aceita os termos
 5. Clicar em "Detalhar denúncia"
 
-### Tarefa: Verificar antecedentes criminais
+### Tarefa 2: Verificar antecedentes criminais
 #### Persona: Matheus
 #### Ações
 1. Na página inicial, clicar no menu "Público Externo"
@@ -37,7 +37,7 @@
 3. Seleciona a opção "Consultar antecedentes criminais"
 4. Insere os dados e clica em "Consultar"
 
-### Tarefa: Visualizar Contracheque
+### Tarefa 3: Visualizar Contracheque
 #### Persona: Peter Parker
 #### Ações
 1. Na página inicial, clicar no menu "Público Interno"
