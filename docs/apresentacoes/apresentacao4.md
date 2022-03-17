@@ -27,4 +27,4 @@
 | 27/02/2022 |  1.1   | Gravação do vídeo | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
 | 17/03/2022 |  1.2   | Criação do documento | Eduardo Gurgel |
 | 17/03/2022 |  1.3   | Adicionando video da apresentação | Eduardo Gurgel |
-
+| 17/03/2022 |  1.4   | Adicionando slide da apresentação | Eduardo Gurgel |
