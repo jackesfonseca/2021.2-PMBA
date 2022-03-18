@@ -46,9 +46,9 @@
 
 <br>
 
-## 4. Versionamento
+## 4. Histórico de Versão
 
-| Versão | Data       | Descrição                                      | Autor(es)          |
+| Versão | Data       | Descrição                                        | Autor(es)      |
 | ------ | ---------- | ------------------------------------------------ | -------------- |
 | 1.0    | 07/02/2022 | Criação do documento                             | Isadora Soares |
 | 1.1    | 08/02/2022 | Adicionando informações sobre processo de design | Isadora Soares |
