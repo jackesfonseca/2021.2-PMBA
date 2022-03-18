@@ -28,7 +28,7 @@
 
 <div style="margin-left:25%">
 
-![processos](../../assets/processosdedesign.png)
+![processos](../assets/processosdedesign.png)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ## 4. Versionamento
 
-| Versão | Data       | Descrição                                      | Autor(es)          |
+| Versão | Data       | Descrição                                        | Autor(es)      |
 | ------ | ---------- | ------------------------------------------------ | -------------- |
 | 1.0    | 07/02/2022 | Criação do documento                             | Isadora Soares |
 | 1.1    | 08/02/2022 | Adicionando informações sobre processo de design | Isadora Soares |
