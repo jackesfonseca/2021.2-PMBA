@@ -48,7 +48,7 @@ Ao fazer verificações regulares, as equipes devem ser capazes de:
 
 [O que é programação em par?](https://www.digite.com/pt-br/agile/programacao-em-pares/)
 
-## Versionamento
+## Histórico de Versão
 
 | Versão | Data       | Modificação                                  | Autor                |
 | ------ | ---------- | -------------------------------------------- | -------------------- |

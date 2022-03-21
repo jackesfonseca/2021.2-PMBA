@@ -1,4 +1,5 @@
 # GRUPO 7
+
 Repositório para desenvolvimento do projeto da disciplina IHC. FGA - UnB.
 
 <div align="center">
@@ -10,8 +11,6 @@ Repositório para desenvolvimento do projeto da disciplina IHC. FGA - UnB.
 Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da Polícia Militar do estado da Bahia, aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade para a área destinada ao serviço de segurança pública.
 
 ## Colaboradores
-
-
 
 <table>
   <tr>
@@ -69,12 +68,12 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
     </td>    
 </table>
 
-<br/> 
+<br/>
 
-## Versionamento
+## Histórico de Versão
 
-|    Data    | Versão |                            Descrição                             |          Autor(es)           |
-| :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
-| 07/02/2022 |  1.0   |                Criação do documento                 | Isadora Soares            |
-| 08/02/2022 |  1.1   |  Adicionando informações sobre o projeto    | Eduardo Gurgel   |
-| 10/02/2022 |  1.2   |  Padronização do versionamento    | Jackes Fonseca   |
+|    Data    | Versão |                Descrição                |   Autor(es)    |
+| :--------: | :----: | :-------------------------------------: | :------------: |
+| 07/02/2022 |  1.0   |          Criação do documento           | Isadora Soares |
+| 08/02/2022 |  1.1   | Adicionando informações sobre o projeto | Eduardo Gurgel |
+| 10/02/2022 |  1.2   |   Padronização do Histórico de Versão   | Jackes Fonseca |

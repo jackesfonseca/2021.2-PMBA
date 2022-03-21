@@ -8,11 +8,11 @@ Após uma pesquisa realizada, o site da Polícia Militar do Estado da Bahia foi 
 
 <br>
 
-## Versionamento
+## Histórico de Versão
 
-| Versão | Data       | Modificação                | Autor          |
-| ------ | ---------- | -------------------------- | -------------- |
-| 1.0    | 07/02/2022 | Criação do documento       | Isadora Soares |
-| 1.1    | 07/02/2022 | Escolha do site | Todos os integrantes |
-| 1.2    | 07/02/2022 | Adicionando site escolhido | Eduardo Gurgel |
-| 1.3    | 11/02/2022 | Adicionando mais detalhes sobre o site | Eduardo Gurgel |
+| Versão | Data       | Modificação                            | Autor                |
+| ------ | ---------- | -------------------------------------- | -------------------- |
+| 1.0    | 07/02/2022 | Criação do documento                   | Isadora Soares       |
+| 1.1    | 07/02/2022 | Escolha do site                        | Todos os integrantes |
+| 1.2    | 07/02/2022 | Adicionando site escolhido             | Eduardo Gurgel       |
+| 1.3    | 11/02/2022 | Adicionando mais detalhes sobre o site | Eduardo Gurgel       |
