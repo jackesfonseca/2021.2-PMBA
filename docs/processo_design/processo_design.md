@@ -46,7 +46,7 @@
 
 <br>
 
-## 4. Versionamento
+## 4. Histórico de Versão
 
 | Versão | Data       | Descrição                                        | Autor(es)      |
 | ------ | ---------- | ------------------------------------------------ | -------------- |
