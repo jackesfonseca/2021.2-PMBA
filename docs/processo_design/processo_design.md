@@ -28,7 +28,7 @@
 
 <div style="margin-left:25%">
 
-![processos](../../assets/processosdedesign.png)
+![processos](../assets/processosdedesign.png)
 
 </div>
 

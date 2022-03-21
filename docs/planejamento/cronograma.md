@@ -19,6 +19,8 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 | Planejamento da equipe             | 13/02/2022             | Todos os integrantes       | Todos os integrantes        |
 | Planejamento do projeto            | 13/02/2022             | Todos os integrantes       | Todos os integrantes        |
 
+#### [Assistir apresentação](../apresentacoes/apresentacao1.md)
+
 ## 2º Ponto de Controle - Apresentação do projeto etapa 2 (03/03)
 
 Ponto de controle com foco em identificar nosso usuário, fazer a análise de tarefas, personas.
@@ -28,6 +30,8 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 | Perfil do Usuário             | 27/02/2022             | Eduardo Gurgel e Matheus Salim  | Isadora Soares e Jackes fonseca |
 | Personas                      | 27/02/2022             | Isadora Soares e Jackes fonseca | Carlos Rafael e Herick Lima     |
 | Análise de tarefas do usuário | 27/02/2022             | Carlos Rafael e Herick Lima     | Eduardo Gurgel e Matheus Salim  |
+
+#### [Assistir apresentação](../apresentacoes/apresentacao2.md)
 
 ## 3º Ponto de Controle - Apresentação do projeto etapa 3 (15/03)
 
@@ -39,6 +43,8 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 | Metas de usabilidade         | 12/03/2022             | Eduardo Gurgel e Isadora Soares | Carlos Rafael e Herick Lima     |
 | Guia de estilo               | 12/03/2022             | Carlos Rafael e Herick Lima     | Jackes Fonseca e Matheus Salim  |
 
+#### [Assistir apresentação](../apresentacoes/apresentacao3.md)
+
 ## 4º Ponto de Controle - Apresentação do projeto etapa 4 (17/03)
 
 Ponto de controle focado na avaliação do storyboard, avaliação da análise de tarefas.
@@ -49,6 +55,8 @@ Ponto de controle focado na avaliação do storyboard, avaliação da análise d
 | Planejamento do relato dos resultados da avaliação do Storyboard         | 16/03/2022             | Isadora Soares                 | Jackes Fonseca |
 | Planejamento da Avaliação da Análise de tarefas                          | 16/03/2022             | Eduardo Gurgel                 | Herick Lima    |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas | 16/03/2022             | Carlos Rafael e Herick lima    | Isadora Soares |
+
+#### [Assistir apresentação](../apresentacoes/apresentacao4.md)
 
 ## 5º Ponto de Controle - Apresentação do projeto etapa 5 (31/03)
 
@@ -107,5 +115,5 @@ O mapa de calor é uma ferramenta que será utilizada para verificar a disponibi
 | ---------- | ------ | ------------------------------------------ | -------------- |
 | 07/02/2022 | 1.0    | Criação do documento                       | Isadora Soares |
 | 08/02/2022 | 1.1    | Adicionando informações sobre o cronograma | Jackes Fonseca |
-| 08/02/2022 | 1.2    | Padronização do Histórico de Versão        | Jackes Fonseca |
+| 08/02/2022 | 1.2    | Padronização do versionamento              | Jackes Fonseca |
 | 15/03/2022 | 1.3    | Adicionando autores e revisores            | Jackes fonseca |
