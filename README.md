@@ -58,7 +58,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://res.cloudinary.com/dcy5jian9/image/upload/v1646312963/minhaft_zgspj5.jpg" height="75px "width="100px;" alt="Foto Carlos Rafael
+        <img src="https://avatars.githubusercontent.com/u/62192072?v=4" width="100px;" alt="Foto Carlos Rafael
 "/><br>
         <sub>
           <b>Carlos Rafael
