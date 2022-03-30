@@ -41,6 +41,9 @@ nav:
         - Storyboard: 
           - Planejamento da Avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
           - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
+      - Nível 2:
+        - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
+        - Planejamento da Avaliação - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
