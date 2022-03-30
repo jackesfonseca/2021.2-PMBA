@@ -16,7 +16,7 @@ A seguir é apresentado as atividades da Prototipação em papel.
 
 ## 2. Metodologia
 
-A seguir encontram-se os protótipos de papel criados manualmente e digitalizados para a ferramenta figma desenvolvidos a partir da escolha de algumas [tarefas](../../analise_requisitos/contexto_uso/analise_tarefas.md).
+A seguir encontra-se o protótipo de papel criado manualmente e digitalizado para a ferramenta figma desenvolvido a partir da escolha de algumas [tarefas](../../design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md).
 
 ### Protótipo 1 - Tarefa Realizar denúncia online
 
@@ -25,7 +25,7 @@ A seguir encontram-se os protótipos de papel criados manualmente e digitalizado
 
 ## 3. Conclusão
 
-A prototipação será utilizada no site da PMBA pois:
+A prototipação será utilizada no site da [PMBA](../../index.md) pois:
 
 * Ajuda a descobrir problemas mais cedo;
 * Garante que os requisitos do sistema atendem às necessidades;
@@ -42,4 +42,4 @@ A prototipação será utilizada no site da PMBA pois:
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
 | 1.0    | 29/03/2022        | Criação do documento    |                  Carlos Rafael |
-| 1.1    | 30/03/2022        | Adicionando informações sobre prototipação de papel    |Jackes Fonseca, Isadora Soares |
+| 1.1    | 30/03/2022        | Adicionando informações sobre prototipação de papel    |Jackes Fonseca |
