@@ -9,7 +9,7 @@
 
 ## 4. Conclusão
 
-## 4. Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
