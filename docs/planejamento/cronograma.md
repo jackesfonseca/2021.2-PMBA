@@ -64,9 +64,9 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 
 | Tarefa                                                                   | Data limite de entrega | Autor(es)    | Revisor(es)  |
 | :----------------------------------------------------------------------- | ---------------------- | ------------ | ------------ |
-| Relato dos resultados do Storyboard e da Análise de tarefas              | 30/03/2022             | Não definido | Não definido |
-| Planejamento da Avaliação do Protótipo de Papel                          | 30/03/2022             | Não definido | Não definido |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 30/03/2022             | Não definido | Não definido |
+| Relato dos resultados do Storyboard e da Análise de tarefas              | 30/03/2022             | Jackes Fonseca e Isadoa Soares | Carlos Rafael e Herick Lima |
+| Planejamento da Avaliação do Protótipo de Papel                          | 30/03/2022             | Carlos Rafael e Herick Lima | Jackes Fonseca e Isadora Soares |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 30/03/2022             | Todos os integrantes | Todos os integrantes |
 
 ## 6º Ponto de Controle - Apresentação do projeto etapa 6 (07/04)
 
