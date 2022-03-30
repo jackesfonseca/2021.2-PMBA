@@ -28,7 +28,9 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 #### Caminhos de interação
 
-- Entrar no site -> Acessar Aba "Público Interno" -> Inserir dados da matrícula e senha -> Acessar seu contracheque;
+- Entrar no site -> Acessar Aba "Público Interno" -> Inserir dados da matrícula e senha -> Acessar contracheque;
+
+--------------------------------------------------
 
 ### Atividade 2 : Realizar login
 
@@ -43,7 +45,9 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 #### Caminhos de interação
 
-- Entrar no site -> Acessar Aba "Público Interno" -> Inserir dados da matrícula e senha -> Acessar seu contracheque;
+- Entrar no site -> Acessar Aba "Público Interno" -> Inserir dados da matrícula e senha -> Acessar seu perfil;
+
+--------------------------------------------------
 
 ### Atividade 3 : Acessar portal de notícias
 
@@ -53,7 +57,9 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 #### Caminhos de interação
 
-- Entrar no site -> Acessar aba "Público Externo" -> Acessar notícias da policia militar -> Validar relevância das notícias (breve avaliação);
+- Entrar no site -> Acessar aba "Público Externo" -> Acessar notícias da policia militar 
+
+--------------------------------------------------
 
 ### Atividade 4 : Utilizar sistema de busca
 
@@ -63,7 +69,7 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 #### Caminhos de interação
 
-- Entrar no site -> Acessar barra de pesquisa  -> Executar uma busca -> Validar resultados encontrados (Fazem sentido com a pesquisa?)
+- Entrar no site -> Acessar barra de pesquisa  -> Executar uma busca 
  
 ## 4. Objetivos
 
