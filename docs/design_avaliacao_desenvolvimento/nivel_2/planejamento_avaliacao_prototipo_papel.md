@@ -15,7 +15,7 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 ## 3. Tarefas para os participantes
 
-### Atividade 1: Acessar contracheque
+### Atividade 1 : Acessar contracheque
 
 #### Tarefas a serem realizadas
 
@@ -30,7 +30,7 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 - Entrar no site -> Acessar Aba "Público Interno" -> Inserir dados da matrícula e senha -> Acessar seu contracheque;
 
-### Atividade 2: Realizar login
+### Atividade 2 : Realizar login
 
 #### Tarefas a serem realizadas
 
@@ -45,7 +45,7 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 - Entrar no site -> Acessar Aba "Público Interno" -> Inserir dados da matrícula e senha -> Acessar seu contracheque;
 
-### Atividade 3: Acessar portal de notícias
+### Atividade 3 : Acessar portal de notícias
 
 #### Tarefas a serem realizadas
 
@@ -55,7 +55,7 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 
 - Entrar no site -> Acessar aba "Público Externo" -> Acessar notícias da policia militar -> Validar relevância das notícias (breve avaliação);
 
-### Atividade 4: Utilizar sistema de busca
+### Atividade 4 : Utilizar sistema de busca
 
 #### Tarefas a serem realizadas
 
@@ -67,11 +67,10 @@ O método de avaliação que iremos utilizar será o método de prototipação e
  
 ## 4. Objetivos
 
-- O usuário se sente confortável com a interface? 
-- Quão intuitivo é a interface ?
-- Quais problemas de IHC dificultam ou impedem o usuário de executar as tarefas?
+- O usuário se sente confortável com a interface ? 
+- Quais problemas de IHC dificultam ou impedem o usuário de executar as tarefas ?
 - Qual a gravidade dos problemas encontrados ?
-- Os perfis de público interno(Policiais Militares) se sente confortável com as interfaces internas do sistema ? (Contra Cheque e Login)
+- Os perfis de público interno (Policiais Militares) se sente confortável com as interfaces internas do sistema ? (Contra Cheque e Login)
 
 
 ## 5. Referências
