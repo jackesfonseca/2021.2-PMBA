@@ -2,12 +2,12 @@
 
 |                     Logo                     |  Ferramenta  | Finalidade                                                                 |
 | :------------------------------------------: | :----------: | -------------------------------------------------------------------------- |
-|         ![Github](../img/github.png)         |    Github    | Histórico de Versão de código fonte                                        |
-|        ![Discord](../img/discord.png)        |   Discord    | Comunicação baseada em comunidades                                         |
-| ![Google Drive](../img/google-workspace.jpg) | Google Drive | Produtividade e colaboração por meio de documentos, planilhas de controle. |
-|          ![Teams](../img/teams.png)          |    Teams     | Comunicação através de reuniões                                            |
-|       ![Whatsapp](../img/whatsapp.png)       |   Whatsapp   | Comunicação rápida                                                         |
-|          ![Canva](../img/canva.png)          |    Canva     | Elaboração de slides e apresentação                                        |
+|         ![Github](./img/github.png)         |    Github    | Histórico de Versão de código fonte                                        |
+|        ![Discord](./img/discord.png)        |   Discord    | Comunicação baseada em comunidades                                         |
+| ![Google Drive](./img/google-workspace.jpg) | Google Drive | Produtividade e colaboração por meio de documentos, planilhas de controle. |
+|          ![Teams](./img/teams.png)          |    Teams     | Comunicação através de reuniões                                            |
+|       ![Whatsapp](./img/whatsapp.png)       |   Whatsapp   | Comunicação rápida                                                         |
+|          ![Canva](./img/canva.png)          |    Canva     | Elaboração de slides e apresentação                                        |
 
 <br/>
 
