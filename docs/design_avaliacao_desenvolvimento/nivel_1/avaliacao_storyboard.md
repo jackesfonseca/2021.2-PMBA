@@ -41,4 +41,5 @@ Após a entrevista, o entrevistado alegou que o storyboard está completo e que 
 | Versão | Data       | Descrição                                   | Autor(es)      |
 | ------ | ---------- | ------------------------------------------- | -------------- |
 | 1.0    | 16/03/2022 | Criação do documento                        | Jackes Fonseca |
-| 2.0    | 16/03/2022 | Adição do relato de avaliação do storyboard | Isadora Soares |
+| 1.1    | 16/03/2022 | Adição do relato de avaliação do storyboard | Isadora Soares |
+| 1.2    | 16/03/2022 | Gravação da entrevista                      | Jackes Fonseca |
