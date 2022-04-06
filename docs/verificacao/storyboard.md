@@ -36,4 +36,4 @@ De acordo com o planejamento foi encontrado problema referente à identificaçã
 | Versão | Data       | Descrição            | Autor(es) |
 | ------ | ---------- | -------------------- | --------- |
 | 1.0    | 06/04/2022 | Criação do documento | Jackes Fonseca          |
-| 1.1    | 06/04/2022 | Adicionando informações sobre a avaliação do storyboard | Jackes Fonseca          |
+| 1.1    | 06/04/2022 | Adicionando informações sobre a verificação do Storyboard | Jackes Fonseca          |
