@@ -34,4 +34,4 @@ De acordo com o planejamento foram encontrados problemas referentes aos objetivo
 | Versão | Data       | Descrição            | Autor(es) |
 | ------ | ---------- | -------------------- | --------- |
 | 1.0    | 06/04/2022 | Criação do documento | Jackes Fonseca          |
-| 1.1    | 06/04/2022 | Adicionando informações sobre a avaliação do storyboard | Jackes Fonseca          |
+| 1.1    | 06/04/2022 | Adicionando informações sobre a verificação das Metas de Usabilidade | Jackes Fonseca          |
