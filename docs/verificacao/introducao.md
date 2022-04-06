@@ -26,8 +26,8 @@ Nesse processo foi separado para todos os integrantes, que atuaram como inspetor
 | Avaliação Análise de Tarefas                 | Eduardo Gurgel | 06/04/2022       |
 | Avaliação storyboard                         | Jackes Fonseca | 06/04/2022       |
 | Guia de estilo                               | Herick Lima    | 06/04/2022       |
-| Metas de usabilidade                         | Antonio Rangel | 06/04/2022       |
-| Perfil do usuário                            | Jackes Fonseca | 06/04/2022       |
+| Metas de usabilidade                         | Jackes Fonseca | 06/04/2022       |
+| Perfil do usuário                            | Matheus Salim  | 06/04/2022       |
 | Personas                                     | Isadora Soares | 06/04/2022       |
 | Planejamento avaliação da Análise de Tarefas | Carlos Rafael  | 06/04/2022       |
 | Planejamento da avaliação protótipo de papel | Jackes Fonseca | 06/04/2022       |
