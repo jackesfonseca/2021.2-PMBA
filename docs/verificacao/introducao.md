@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O processo de Verificação confirma que o produto de software funciona de forma a refletir adequadamente os requisitos elicitados para ele. Nesse processo, buscamos garantir que os artefatos feitos seguem adequadamente a proposta do modelo, ou seja, se por exemplo, os casos de uso feitos seguem a teoria proposta para o diagrama de casos de uso.
+O processo de Verificação confirma que o produto de software funciona de forma a refletir adequadamente os requisitos elicitados para ele. Nesse processo, buscamos garantir que os artefatos feitos seguem adequadamente a proposta do modelo, ou seja, se por exemplo, a análise de tarefa feita segue a teoria proposta para a elaboração da análise de tarefas.
 
 Segundo Fagan, tem-se um método de inspeção que estabele um processo com **seis passos** principais que serão seguidas pelo grupo:
 
