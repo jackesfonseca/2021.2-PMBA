@@ -48,7 +48,21 @@ nav:
       - Verificação:
           - Análise de Tarefas: analise/verificacao/analise_de_tarefas.md
           - Planejamento da Avaliação da Análise de Tarefas: analise/verificacao/planejamento_avaliacao_analise_de_tarefas.md
-
+  - Verificação dos Artefatos:
+      - Planejamento:
+        - Ferramentas: 
+        - Sites Avaliados: 
+        - Site escolhido: 
+        - Cronograma do Projeto: 
+        - Processo de Design:     
+      - Análise de Requisitos:
+        - Perfil de usuário: 
+        - Personas: 
+        - Análise de Tarefas: 
+        - Princípios Gerais: 
+        - Guia de Estilo: 
+        - Metas de Usabilidade: 
+        - Storyboard: 
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
