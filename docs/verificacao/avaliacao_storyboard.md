@@ -19,7 +19,7 @@ Foi utilizado um checklist para a realização da inspeção:
 | 09 | Foi identificado o papel que  a interface tem para alcançar o objetivo?            | ✔ |
 | 10 | Foi identificado as motivações que levam o usuário a utilizar a aplicação?         | ✔ |
 | 11 | Foi identificado as necessidades que a aplicação precisa preencher?                | ✔ |
-| 12 | A gravação foi disponibbilizada?                                                   | ✔ |
+| 12 | A gravação foi disponibilizada?                                                   | ✔ |
 | 13| Foi apresentado termo de compromisso?                                               | ✔ |
 | 14 | O termo de compromisso foi disponibilizado?                                        | ✔ |
 | 15 | As perguntas ajudam a chegar no objetivo esperado?                                  | ✔ |
