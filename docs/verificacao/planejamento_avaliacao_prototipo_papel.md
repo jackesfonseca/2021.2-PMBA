@@ -18,13 +18,16 @@ Foi utilizado um checklist para a realização da inspeção:
 | 08 | Possui referências textuais?                                                       | ✔ |
 | 09 | O documento está coeso e coerente?                                                 | ✔ |
 
-## 3. Referências
+
+## 3. Conclusão
+
+De acordo com o planejamento foi encontrado problema referente à identificação dos objetivos do artefato
+
+## 4. Referências
 
 1. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-## 4. Conclusão
 
-De acordo com o planejamento foi encontrado problema referente à identificação dos objetivos do artefato
 
 ## 5. Histórico de Versão
 
