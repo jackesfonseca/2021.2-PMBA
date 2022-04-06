@@ -22,7 +22,7 @@ Foi utilizado um checklist para a realização da inspeção:
 | 12 | A gravação foi disponibbilizada?                                                   | ✔ |
 | 13| Foi apresentado termo de compromisso?                                               | ✔ |
 | 14 | O termo de compromisso foi disponibilizado?                                        | ✔ |
-| 15 | As perguntas ajudama chegar no objetivo esperado?                                  | ✔ |
+| 15 | As perguntas ajudam a chegar no objetivo esperado?                                  | ✔ |
 | 16 | Possui referências textuais?                                                       | ✔ |
 | 17 | O documento está coeso e coerente?                                                 | ✔ |
 
