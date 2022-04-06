@@ -3,13 +3,13 @@ site_name: PMBA
 repo_name: "2021.2-PMBA"
 repo_url: "https://github.com/Interacao-Humano-Computador/2021.2-PMBA"
 
-extra_css: 
+extra_css:
   - extra.css
 
 theme:
   name: material
   language: "pt"
-  logo: assets/pmbalogo.png 
+  logo: assets/pmbalogo.png
   palette:
     primary: "#fff"
     accent: "light blue"
@@ -35,15 +35,20 @@ nav:
       - Storyboard: analise_requisitos/contexto_uso/storyboard.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
-        - Análise de Tarefas:
-          - Planejamento da avaliação de análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md
-          - Avaliação de análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md
-        - Storyboard: 
-          - Planejamento da Avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
-          - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
+          - Análise de Tarefas:
+              - Planejamento da avaliação de análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md
+              - Avaliação de análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md
+          - Storyboard:
+              - Planejamento da Avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
+              - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
       - Nível 2:
-        - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
-        - Planejamento da Avaliação - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
+          - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
+          - Planejamento da Avaliação - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
+  - Análise:
+      - Verificação:
+          - Análise de Tarefas: analise/verificacao/analise_de_tarefas.md
+          - Planejamento da Avaliação da Análise de Tarefas: analise/verificacao/planejamento_avaliacao_analise_de_tarefas.md
+
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
