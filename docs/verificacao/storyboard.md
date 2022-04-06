@@ -17,11 +17,11 @@ Foi utilizado um checklist para a realização da inspeção:
 | 07 | Foram identificadas as tarefas a serem cumpridas?                                  | ✔ |
 | 08 | Foram identificados os passos para execução das tarefas?                           | ✔ |
 | 09 | Foi identificado o papel que  a interface tem para alcançar o objetivo?            | ✔ |
-| 11| Foi identificado as motivações que levam o usuário a utilizar a aplicação?          | ✔ |
-| 12| Foi identificado as necessidades que a aplicação precisa preencher?                 | ✔ |
-| 13 | Possui identificação dos requisitos?                                               | ✔ |
-| 14 | Possui referências textuais?                                                       | ✔ |
-| 15 | O documento está coeso e coerente?                                                 | ✔ |
+| 10| Foi identificado as motivações que levam o usuário a utilizar a aplicação?          | ✔ |
+| 11| Foi identificado as necessidades que a aplicação precisa preencher?                 | ✔ |
+| 12 | Possui identificação dos requisitos?                                               | ✔ |
+| 13 | Possui referências textuais?                                                       | ✔ |
+| 14 | O documento está coeso e coerente?                                                 | ✔ |
 
 ## 3. Referências
 
