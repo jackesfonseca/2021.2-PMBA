@@ -5,7 +5,9 @@ O documento de [Planejamento de avaliação da analise de tarefas](../design_ava
 ## 2. Metodologia
 
 Técnica: Inspeção por Checklist
+
 Autores: Carlos Rafael
+
 O documento verificado está disponível [aqui](../design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md)
 
 ### Legenda

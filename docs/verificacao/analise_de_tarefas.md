@@ -5,7 +5,9 @@ O documento de [analise de tarefas](../analise_requisitos/contexto_uso/analise_t
 ## 2. Metodologia
 
 Técnica: Inspeção por Checklist
+
 Autores: Carlos Rafael
+
 O documento verificado está disponível [aqui](../analise_requisitos/contexto_uso/analise_tarefas.md)
 
 ### Legenda
