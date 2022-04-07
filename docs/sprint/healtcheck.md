@@ -42,7 +42,7 @@ Ao fazer verificações regulares, as equipes devem ser capazes de:
 
 ![Health check](./img/healtCheck-1.png)
 
-## 4. Bibliografia
+## 4. Referências
 
 [Why doing Team Health Checks?](https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html?utm_source=google&utm_medium=cpc&utm_campaign=team-health-checks&utm_content=agile-health-check&utm_term=health%20check%20scrum&gclid=CjwKCAiA9tyQBhAIEiwA6tdCrFgdA7clyAjAA5cjd_9zxr1wGjiz-VAMJVyLgyZhe6F3MtEkFuBGIBoCnPQQAvD_BwE)
 

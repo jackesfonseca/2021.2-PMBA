@@ -76,7 +76,7 @@
 
 &emsp;&emsp;Nessa etapa, o avaliador terá que redigir um relatório com os resultados que obteve na avaliação e descrevendo os problemas encontrados e as sugestões de correção.
 
-## 3. Bibliografia
+## 3. Referências
 
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 
