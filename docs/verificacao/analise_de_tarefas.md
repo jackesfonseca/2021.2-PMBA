@@ -6,7 +6,7 @@ O documento de [analise de tarefas](../analise_requisitos/contexto_uso/analise_t
 
 Técnica: Inspeção por Checklist
 Autores: Carlos Rafael
-O documento verificado está disponível [aqui](../analise_requisitos/contexto_uso/analise_tarefas.md
+O documento verificado está disponível [aqui](../analise_requisitos/contexto_uso/analise_tarefas.md)
 
 ### Legenda
 
