@@ -4,7 +4,7 @@ O cronograma tem como objetivo definir um planejamento das tarefas entregues e s
 
 Com base no plano de ensino e as entregas definidas pelo professor, nosso grupo organizou o cronograma em 7 pontos de controle além da apresentação final:
 
-## 1º Ponto de Controle - Apresentação do projeto etapa 1 (17/02)
+## 1º Ponto de Controle - [Apresentação do projeto etapa 1](../apresentacoes/apresentacao1.md) (17/02)
 
 Ponto de controle focado em avaliar o sistema, entender o problema, definir o escopo e fazer o planejamento da equipe e do projeto.
 
@@ -19,9 +19,7 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 | Planejamento da equipe             | 13/02/2022             | Todos os integrantes       | Todos os integrantes        |
 | Planejamento do projeto            | 13/02/2022             | Todos os integrantes       | Todos os integrantes        |
 
-#### [Assistir apresentação](../apresentacoes/apresentacao1.md)
-
-## 2º Ponto de Controle - Apresentação do projeto etapa 2 (03/03)
+## 2º Ponto de Controle - [Apresentação do projeto etapa 2](../apresentacoes/apresentacao2.md) (03/03)
 
 Ponto de controle com foco em identificar nosso usuário, fazer a análise de tarefas, personas.
 
@@ -31,9 +29,7 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 | Personas                      | 27/02/2022             | Isadora Soares e Jackes fonseca | Carlos Rafael e Herick Lima     |
 | Análise de tarefas do usuário | 27/02/2022             | Carlos Rafael e Herick Lima     | Eduardo Gurgel e Matheus Salim  |
 
-#### [Assistir apresentação](../apresentacoes/apresentacao2.md)
-
-## 3º Ponto de Controle - Apresentação do projeto etapa 3 (15/03)
+## 3º Ponto de Controle - [Apresentação do projeto etapa 3](../apresentacoes/apresentacao3.md) (15/03)
 
 Ponto de controle focado em metas de usabilidade, guias de estilo.
 
@@ -43,9 +39,7 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 | Metas de usabilidade         | 12/03/2022             | Eduardo Gurgel e Isadora Soares | Carlos Rafael e Herick Lima     |
 | Guia de estilo               | 12/03/2022             | Carlos Rafael e Herick Lima     | Jackes Fonseca e Matheus Salim  |
 
-#### [Assistir apresentação](../apresentacoes/apresentacao3.md)
-
-## 4º Ponto de Controle - Apresentação do projeto etapa 4 (17/03)
+## 4º Ponto de Controle - [Apresentação do projeto etapa 4](../apresentacoes/apresentacao4.md) (17/03)
 
 Ponto de controle focado na avaliação do storyboard, avaliação da análise de tarefas.
 
@@ -56,19 +50,17 @@ Ponto de controle focado na avaliação do storyboard, avaliação da análise d
 | Planejamento da Avaliação da Análise de tarefas                          | 16/03/2022             | Eduardo Gurgel                 | Herick Lima    |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas | 16/03/2022             | Carlos Rafael e Herick lima    | Isadora Soares |
 
-#### [Assistir apresentação](../apresentacoes/apresentacao4.md)
-
-## 5º Ponto de Controle - Apresentação do projeto etapa 5 (31/03)
+## 5º Ponto de Controle - [Apresentação do projeto etapa 5](../apresentacoes/apresentacao5.md) (31/03)
 
 Ponto de controle focado na análise dos resultados do Storyboard, avaliação do protótipo de Papel.
 
-| Tarefa                                                                   | Data limite de entrega | Autor(es)    | Revisor(es)  |
-| :----------------------------------------------------------------------- | ---------------------- | ------------ | ------------ |
-| Relato dos resultados do Storyboard e da Análise de tarefas              | 30/03/2022             | Jackes Fonseca e Isadoa Soares | Carlos Rafael e Herick Lima |
-| Planejamento da Avaliação do Protótipo de Papel                          | 30/03/2022             | Carlos Rafael e Herick Lima | Jackes Fonseca e Isadora Soares |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 30/03/2022             | Todos os integrantes | Todos os integrantes |
+| Tarefa                                                                   | Data limite de entrega | Autor(es)                      | Revisor(es)                     |
+| :----------------------------------------------------------------------- | ---------------------- | ------------------------------ | ------------------------------- |
+| Relato dos resultados do Storyboard e da Análise de tarefas              | 30/03/2022             | Jackes Fonseca e Isadoa Soares | Carlos Rafael e Herick Lima     |
+| Planejamento da Avaliação do Protótipo de Papel                          | 30/03/2022             | Carlos Rafael e Herick Lima    | Jackes Fonseca e Isadora Soares |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 30/03/2022             | Todos os integrantes           | Todos os integrantes            |
 
-## 6º Ponto de Controle - Apresentação do projeto etapa 6 (07/04)
+## 6º Ponto de Controle - [Apresentação do projeto etapa 6](../apresentacoes/apresentacao6.md) (07/04)
 
 Ponto de controle focado na verificação dos artefatos
 
