@@ -22,7 +22,7 @@ Para garantir o mínimo necessário para apresentar uma boa interface e experiê
 <br/>
 <br/>
 
-## 5. Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Data       | Descrição                               | Autor(es)      |
 | ------ | ---------- | --------------------------------------- | -------------- |

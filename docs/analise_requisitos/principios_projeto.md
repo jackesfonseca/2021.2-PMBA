@@ -63,13 +63,14 @@ Nesse princípio, Norman (1998) recomenda projetar para o erro, ou seja, deve se
 Os princípios gerais do projeto é uma parte importante no sistema, onde o mesmo será o guia do time para a criação/refatoração da plataforma escolhida. Todas os componentes, funcionalidades e atividades criadas, devem se basear nesses princípios.
 
 ## 4. Referências
+
 1. Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
 2. Morville, P. (2005) findability Ambient. Sebastopol, CA: O'Reilly
 3. Princípios gerais do projeto do grupo C++ de Desenho de Software da Universidade de Brasília. Disponível em: < https://interacao-humano-computador.github.io/2019.2-CPlusPlus/#/docs/general_principles/general_principles > Acesso em 10 de março de 2022
 
 ## 5. Histórico de Versão
 
-| Versão |  Data  |        Descrição        |     Autor(es)     | 
-|--------|--------|-------------------------|-------------------|
-| 1.0    |  10/03/2022  | Criação do documento    |  Jackes Fonseca                 |
-| 1.1    |  10/03/2022  | Adicionando informações sobre os Princípios do projeto    |  Jackes Fonseca e Matheus Salim                |
+| Versão | Data       | Descrição                                              | Autor(es)                      |
+| ------ | ---------- | ------------------------------------------------------ | ------------------------------ |
+| 1.0    | 10/03/2022 | Criação do documento                                   | Jackes Fonseca                 |
+| 1.1    | 10/03/2022 | Adicionando informações sobre os Princípios do projeto | Jackes Fonseca e Matheus Salim |
