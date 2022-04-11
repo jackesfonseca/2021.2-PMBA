@@ -66,6 +66,18 @@ Acessar a aba de delegacia virtual consiste em navegar na opção que está loca
 - Opção de busca
 - Opção de dúvidas frequentes (Canal de atendimentos)
 
+## 5. Conclusão
+
+Os avaliadores devem relatar os resultados consolidados, normalmente através de um documentos costumam incluir de acordo com o Barbosa e Silva (2021):
+
+- os objetivos e escopo da avaliação;
+- a forma como a avaliação foi realizada (método de avaliação empregado);
+- o número e o perfil de usuários e avaliadores que participaram da avaliação;
+- um sumário dos dados coletados, incluindo tabelas e gráficos;
+- um relato da interpretação e análise dos dados;
+- uma lista dos problemas encontrados;
+- um planejamento para o reprojeto do sistema.
+
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## 5. Histórico de Versão
