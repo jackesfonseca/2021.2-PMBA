@@ -26,13 +26,11 @@
 <br>
 <br>
 
-<div style="margin-left:25%">
+<figcaption class="center">Figura 1: Engenharia de Usabilidade de Mayhew</figcaption>
+<img width="600" src="https://user-images.githubusercontent.com/53023400/162815797-9fd9f329-8b85-43c0-99b1-294a95ffc683.png">
+<figcaption class:"center">Fonte: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+   Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</figcaption>
 
-![processos](../assets/processosdedesign.png)
-
-</div>
-
-<h5 style="margin-left:25%">Figura 1: Engenharia de Usabilidade de Mayhew </h5>
 
 <br>
 <br>
@@ -55,3 +53,5 @@
 | 1.0    | 07/02/2022 | Criação do documento                             | Isadora Soares |
 | 1.1    | 08/02/2022 | Adicionando informações sobre processo de design | Isadora Soares |
 | 1.2    | 09/02/2022 | Atualização imagem e estilo texto                | Isadora Soares |
+| 1.3    | 11/04/2022 | Atualização imagem                               | Jackes Fonseca |
+| 1.4    | 11/04/2022 | Atualização descrição e fonte                    | Jackes Fonseca |
