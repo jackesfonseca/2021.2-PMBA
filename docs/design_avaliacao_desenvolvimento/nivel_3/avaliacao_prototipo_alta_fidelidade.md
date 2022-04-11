@@ -47,6 +47,16 @@ Conforme o acrônimo do Framework DECIDE, os avaliadores devem decidir como lida
     <img src="https://user-images.githubusercontent.com/53023400/158609487-720ab906-1837-4595-8e6e-88a68fe9d384.jpg">
 </center>
 
+### Perfil dos entrevistados
+
+Será selecionado uma pessoa que se enquadra dentro do [perfil do usuário](../../analise_requisitos/contexto_uso/perfil_usuario.md) e/ou [personas](../../analise_requisitos/contexto_uso/personas.md) obtidas durante a fase da Análise de Requisitos. Sendo o público alvo Policiais Militares.
+
+### Teste Piloto
+
+O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. (Barbosa e Silva, 2010)
+
+Clique [aqui]() para visualizar o teste piloto
+
 ## 3. Conclusão
 
 Clique [aqui]() para visualizar o resultado da Avaliação do Storyboard
