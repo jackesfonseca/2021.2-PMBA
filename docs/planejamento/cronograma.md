@@ -64,21 +64,21 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 
 Ponto de controle focado na verificação dos artefatos
 
-| Tarefa                    | Data limite de entrega | Autor(es)    | Revisor(es)  |
-| :------------------------ | ---------------------- | ------------ | ------------ |
+| Tarefa                    | Data limite de entrega | Autor(es)            | Revisor(es)          |
+| :------------------------ | ---------------------- | -------------------- | -------------------- |
 | Verificação dos artefatos | 06/04/2022             | Todos os integrantes | Todos os integrantes |
 
 ## 7º Ponto de Controle - [Apresentação do projeto etapa 7](../apresentacoes/apresentacao7.md) (12/04)
 
 Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar melhorias para a entrega do projeto
 
-| Tarefa                                                                             | Data limite de entrega | Autor(es)    | Revisor(es)  |
-| :--------------------------------------------------------------------------------- | ---------------------- | ------------ | ------------ |
-| Relato dos resultados do Protótipo de Papel                                        | 11/04/2022             | Carlos Rafael | Não definido |
+| Tarefa                                                                             | Data limite de entrega | Autor(es)      | Revisor(es)  |
+| :--------------------------------------------------------------------------------- | ---------------------- | -------------- | ------------ |
+| Relato dos resultados do Protótipo de Papel                                        | 11/04/2022             | Carlos Rafael  | Não definido |
 | Planejamento da Avaliação do protótipo de alta fidelidade                          | 11/04/2022             | Jackes Fonseca | Não definido |
-| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 11/04/2022             | Não definido | Não definido |
+| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 11/04/2022             | Não definido   | Não definido |
 
-## [Apresentação final]((../apresentacoes/apresentacao_final.md) ) (26/04 e 28/04)
+## [Apresentação final](../apresentacoes/apresentacao_final.md) (26/04 e 28/04)
 
 Apresentação final do projeto da disciplina
 
