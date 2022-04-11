@@ -78,9 +78,11 @@ Os avaliadores devem relatar os resultados consolidados, normalmente através de
 - uma lista dos problemas encontrados;
 - um planejamento para o reprojeto do sistema.
 
+## 6. Referências
+
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
-## 5. Histórico de Versão
+## 7. Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)     |
 | ------ | ---------- | -------------------- | ------------- |
