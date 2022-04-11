@@ -16,6 +16,9 @@ Primeiramente, o grupo deverá definir os participantes das entrevistas. Levando
 
 Como difinido no planejamento da avaliação os perfis que buscamos são de policiais militares.
 
+### 3.1 Abordagem
+
+Quando encontrado o perfil desejado, é de extrema importância, deixar o participante por dentro de todas as etapas e detalhes. Feito isto, execute um teste piloto a fim de sanar dúvidas que poderão afetar na qualidade e integridade dos dados obtidos.
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## 5. Histórico de Versão
