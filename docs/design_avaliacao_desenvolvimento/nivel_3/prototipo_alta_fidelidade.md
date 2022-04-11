@@ -6,9 +6,9 @@ Pensado em abordagens mais práticas do protótipo de alta fidelidade, podemos a
 
 ## 2. Metodologia
 
-Conforme problemas de interface identificados durante a [Avaliação do storyboard](../nivel_1/avaliacao_storyboard.md), e seguindo os padões de fonte, cores, componentização e estilização presentes no [Guia de Estilo] além do design proposto e aprovado durante a elaboração do [Protótipo de Papel](../nivel_2/prototipo_papel.md), foi desenvolvido um Protótipo de Alta Fidelidade utilizando a ferramenta [Figma](../../planejamento/ferramentas.md), onde será possível que o usuário ou a [persona](analise_requisitos/contexto_uso/personas.md) possa ter contato com o mesmo.
+Conforme problemas de interface identificados durante a [Avaliação do storyboard](../nivel_1/avaliacao_storyboard.md), e seguindo os padões de fonte, cores, componentização e estilização presentes no [Guia de Estilo] além do design proposto e aprovado durante a elaboração do [Protótipo de Papel](../nivel_2/prototipo_papel.md), foi desenvolvido um Protótipo de Alta Fidelidade utilizando a ferramenta [Figma](../../planejamento/ferramentas.md), onde será possível que o usuário ou a [persona](../../analise_requisitos/contexto_uso/personas.md) possa ter contato com o mesmo.
 
-Até a presente versão desse documento, foram desenvolvidas as seguintes funcionalidades descritas na [Análise de Tarefas](analise_requisitos/contexto_uso/analise_tarefas.md)
+Até a presente versão desse documento, foram desenvolvidas as seguintes funcionalidades descritas na [Análise de Tarefas](../../analise_requisitos/contexto_uso/analise_tarefas.md)
 
 - Visualizar contracheque
 - Realizar denúncia online
