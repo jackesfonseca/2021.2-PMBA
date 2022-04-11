@@ -10,7 +10,11 @@ As entrevistas visa coletar dados e levantar requisitos. No formato remoto ou pr
 
 Os avaliadores devem relembrar as questões que motivaram o estudo visando responder e justificar. Além de verificar e encontrar uma explicação caso algo não esteja correto ou com ausência de informação. Os resultados de uma avaliação IHC normalmente apontam potenciais problemas e que mesmo que não encontrados, não significa a ausência definitiva destes, ou seja, as avaliações IHC como qualquer outro modelo de teste, por mais eficaz que seja; não garante um design/interface livre de bugs.
 
-## 4. Referências
+## 3. Participantes
+
+Primeiramente, o grupo deverá definir os participantes das entrevistas. Levando em consideração que os participantes não deve possuir nem um tipo de vinculo com o entrevistador e que os mesmos estejam dentro do escopo de perfis definidos no escopo da avaliação.
+
+Como difinido no planejamento da avaliação os perfis que buscamos são de policiais militares.
 
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
