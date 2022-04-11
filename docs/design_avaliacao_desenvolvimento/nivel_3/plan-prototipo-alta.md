@@ -26,6 +26,46 @@ Quando encontrado o perfil desejado, é de extrema importância, deixar o partic
 - Acessar aba de login na aba de público interno
 - Acessar contracheque na aba de login
 - Acessar delegacia digital na aba de público externo
+
+## 4. Tarefas
+
+Antes de iniciar de fato a validação do modelo/protótipo, é necessária a definição das tarefas (planejamento) que serão executadas pelos participantes.
+
+### 4.1. Tarefa 1
+
+A navegação entre as páginas de públicos interno e externo consiste em navegar nas duas principais abas do site.
+
+- Público interno: policiais militares
+  - Na aba de público interno é possível ver opções como contracheque e aba da tropa
+- Público externo: qualquer outro perfil de usuário
+  - Na aba de público externo é possível visualizar opções como delegacia digital e antecedentes criminais
+
+### 4.2. Tarefa 2
+
+Acessar aba de login consiste em uma tentativa acesso ao contracheque. clicando na opção de contracheque, localizada na aba de público interno, o usuário deverá ser redirecionado para a tela de login, onde será necessário alguns dados para isto:
+
+- Nome de usuário
+- Senha
+
+### 4.3. Tarefa 3
+
+Acessar a aba de contracheque é uma tarefa que só pode ser realizada após o login. Nesta aba é possível ver o perfil do usuários e informações extras, como:
+
+- Foto de perfil
+- Mês competência
+- Número do Período
+- Documentos
+- Funcionalidades como imprimir adicionar e atualizar
+
+### 4.4. Tarefa 4
+
+Acessar a aba de delegacia virtual consiste em navegar na opção que está localizada na aba de público externo. Deverá apresentar :
+
+- Foto de perfil do usuário
+- Opção de envio de documentos
+- Opção de busca
+- Opção de dúvidas frequentes (Canal de atendimentos)
+
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## 5. Histórico de Versão
