@@ -1,10 +1,10 @@
 ## 1. Introdução
 
-Este documento de planejamento compreende como resultados das entrevistas devem ser trabalhados; baseando-se no método selecionado, que no caso do protótipo de alta fidelidade são as entrevistas.
+Este documento de planejamento compreende como resultados das entrevistas devem ser trabalhados, baseando-se no método selecionado, que no caso do protótipo de alta fidelidade são as entrevistas.
 
 ## 2. Metodologia
 
-As entrevistas visa coletar dados e levantar requisitos. No formato remoto ou presencial. Normalmente guiada por um roteiro de perguntas, tópicos e tarefas na qual o entrevistador utiliza para extrair informações do entrevistados. Depois das entrevistas, a interpretação das informações obtidas vai ser guiada através do planejamento da avaliação e o do método escolhido.
+As entrevistas visam coletar dados e levantar requisitos. No formato remoto ou presencial. Normalmente guiada por um roteiro de perguntas, tópicos e tarefas na qual o entrevistador utiliza para extrair informações do entrevistados. Depois das entrevistas, a interpretação das informações obtidas vai ser guiada através do planejamento da avaliação e o do método escolhido.
 
 ### 2.1 resultados
 
