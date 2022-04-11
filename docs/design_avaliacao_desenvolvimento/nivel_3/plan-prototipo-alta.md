@@ -84,6 +84,7 @@ Os avaliadores devem relatar os resultados consolidados, normalmente através de
 
 ## 7. Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)     |
-| ------ | ---------- | -------------------- | ------------- |
-| 1.0    | 11/04/2022 | Criação do documento | Carlos Rafael |
+| Versão | Data       | Descrição                                                   | Autor(es)     |
+| ------ | ---------- | ----------------------------------------------------------- | ------------- |
+| 1.0    | 11/04/2022 | Criação do documento                                        | Carlos Rafael |
+| 1.0    | 11/04/2022 | Introdução, Metodologia, Participantes, Tarefas e Conclusão | Carlos Rafael |
