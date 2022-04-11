@@ -19,7 +19,7 @@ Até a presente versão desse documento, foram desenvolvidas as seguintes funcio
 
 ## 3. Conclusão
 
-Por meio do Protótipo de Alta Fidelidade, será possivel validarmos todos os aspectos inerentes ao desenvovimento da aplicação presentes nos [Princípios Gerais de Projeto](analise_requisitos/principios_projeto.md)
+Por meio do Protótipo de Alta Fidelidade, será possivel validarmos todos os aspectos inerentes ao desenvovimento da aplicação presentes nos [Princípios Gerais de Projeto](../../analise_requisitos/principios_projeto.md)
 
 ## 4. Bibliografia
 
