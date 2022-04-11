@@ -4,11 +4,13 @@ Este documento de planejamento compreende como resultados das entrevistas devem 
 
 ## 2. Metodologia
 
+As entrevistas visa coletar dados e levantar requisitos. No formato remoto ou presencial. Normalmente guiada por um roteiro de perguntas, tópicos e tarefas na qual o entrevistador utiliza para extrair informações do entrevistados. Depois das entrevistas, a interpretação das informações obtidas vai ser guiada através do planejamento da avaliação e o do método escolhido.
+
 ## 3. Conclusão
 
 ## 4. Referências
 
-1.
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## 5. Histórico de Versão
 
