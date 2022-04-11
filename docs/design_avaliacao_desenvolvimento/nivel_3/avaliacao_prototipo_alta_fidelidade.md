@@ -4,7 +4,7 @@ A avaliação de IHC é uma atividade essencial, quando se busca produzir sistem
 
 A preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa et al., 2021, pág. 106), e com o objetivo de conduzir a avaliação do Storyboard da Polícia Militar da Bahia, a criação e utilização desse documento se faz essencial.
 
-Como já explicado anteriormente, o Protótipo de Alta fidelidade é um exemplo de prototipação de baixa fidelidade, geralmente utilizado em conjunto com cenários. Consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido, no caso de um software baseado em interface gráfica com o usuário (GUI), pode se tratar de telas esboçadas. Dentre alguns benefícios da sua utilização estão:
+Como já explicado anteriormente, um protótipo de alta fidelidade (às vezes chamado de high-fi ou hi-fi) é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade, no caso de um software baseado em interface gráfica com o usuário (GUI), pode se tratar de telas esboçadas. Dentre alguns benefícios da sua utilização estão:
 
 - Aumentar a fidelidade com o que se espera do produto final
 - Diminuir tempo de fazer um esboço do projeto
