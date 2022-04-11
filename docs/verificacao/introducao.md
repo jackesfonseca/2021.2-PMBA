@@ -18,6 +18,7 @@ Segundo Fagan, tem-se um método de inspeção que estabele um processo com **se
 O processo de Verificação escolhido pelo grupo foi a Inspeção. Inspeção consiste em revisões estruturadas e minuciosas por pessoas competentes, geralmente dirigidas por **checklists** de verificação de erros. Uma inspeção foi realizada sobre um documento sinalizando se determinado tópico estava sendo atendido (✔) ou não (✖) na documentação referente.
 
 ## 3. Preparação
+
 Nesse processo foi separado para todos os integrantes, que atuaram como inspetores, as tarefas em que fizemos o processo de verificação. Vale ressaltar que as tarefas foram divididas seguindo a afinidade com inspetor com cada artefato, de modo a garantir um aprendizado sobre o mesmo e também garantir uma maior velocidade na elaboração da verificação.
 
 | Tarefa                                       | Inspetor       | Data da inspeção |
@@ -37,8 +38,8 @@ Nesse processo foi separado para todos os integrantes, que atuaram como inspetor
 | Protótipo de papel                           | Herick Lima    | 06/04/2022       |
 | storyboard                                   | Jackes Fonseca | 06/04/2022       |
 
-
 ## 4. Inspeção
+
 ### Modelo básico para inspeção
 
 | ID  | Tópico   | Análise    |
