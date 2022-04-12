@@ -28,7 +28,7 @@ Respondendo às perguntas feitas no documento:
 
 ## 4. Conclusão
 
-
+Por fim, a entrevisa com o senhor Arnaldo Filho revelou que a fase da prototipação está pronta para ser implementada, assim podendo ser testada em campo. 
 
 ## 5. Histórico de versão
 
