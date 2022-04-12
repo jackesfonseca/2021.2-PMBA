@@ -4,7 +4,7 @@ Este documento tem como objetivo mostrar os resultados obtidos durante a avalia�
 
 ## 2. Metodologia
 
-
+Seguindo a linha do documento do [Protótipo de Papel](../nivel_2/prototipo_papel.md), a avaliação dos resultados das tarefas foi feita. Utilizando uma ferramenta de comunicação síncrona, foi instruído ao policial militar Arnaldo Filho seguir os passos descritos no documento citado.
 
 ## 3. Conclusão
 
