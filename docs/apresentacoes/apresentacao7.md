@@ -15,3 +15,14 @@
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE9mNT0qRg&#x2F;view?utm_content=DAE9mNT0qRg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação 7 - IHC</a> de Jackes da Fonseca
 <p></p>
+
+## 3. Histórico de versões
+
+| Data       | Versão | Descrição                         | Autor(es)                                                                 |
+| ---------- | ------ | --------------------------------- | ------------------------------------------------------------------------- |
+| 10/04/2022 | 1.0    | Criação dos slides                | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
+| 10/04/2022 | 1.1    | Gravação do vídeo                 | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
+| 11/04/2022 | 1.2    | Criação do documento              | Eduardo Gurgel                                                            |
+| 11/04/2022 | 1.3    | Adicionando video da apresentação | Eduardo Gurgel                                                            |
+| 11/04/2022 | 1.4    | Adicionando slide da apresentação | Eduardo Gurgel                                                            |
+
