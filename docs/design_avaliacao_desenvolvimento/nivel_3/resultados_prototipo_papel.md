@@ -32,7 +32,7 @@ Por fim, a entrevisa com o senhor Arnaldo Filho revelou que a fase da prototipa�
 
 ## 5. Histórico de versão
 
-| Versão |  Data  |        Descrição        |     Autor(es)     | 
-|--------|--------|-------------------------|-------------------|
-| 1.0    | 10/04/2022     | Criação do documento    | Carlos Rafael                  |
-| 1.1    | 11/04/2022     | Adicionando informações sobre o Protótipo de de Alta Fidelidade| Jackes Fonseca                  |
+| Versão |  Data  |        Descrição        |     Autor(es)     | Revisores |
+|--------|--------|-------------------------|-------------------|-----------|
+| 1.0    | 10/04/2022     | Criação do documento    | Carlos Rafael | Herick Lima |
+| 1.1    | 11/04/2022     | Adicionando informações sobre o os resultados da análise da prototipação de papel| Herick Lima | Herick Lima |
