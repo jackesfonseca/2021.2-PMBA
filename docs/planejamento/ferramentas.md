@@ -9,6 +9,7 @@
 |       <img width="100px" src="https://user-images.githubusercontent.com/53023400/162627403-0803d146-1fd0-4aca-b308-3ea6600626d4.png">       |   Whatsapp   | Comunicação rápida                                                         |
 |       <img width="100px" src="https://user-images.githubusercontent.com/53023400/162627424-dcd0dabb-2bf4-465f-8c24-ed6a938a2210.png">        |    Canva     | Elaboração de slides e apresentação                                        |
 |       <img width="100px" src="https://user-images.githubusercontent.com/53023400/162627526-71679e85-0246-4cf0-995d-8eb0852a452b.png">|   Figma    |  Elaboração de protótipos  |
+|       <img width="100px" src="https://user-images.githubusercontent.com/51385738/163580450-b768fd37-d895-4fc7-b14b-0edb70129eba.png">|   Youtube    |  Postagem dos vídeos  |
 
 <br/>
 
@@ -24,3 +25,4 @@
 | 1.3    | 14/02/2022 | Adicionando nova ferramenta          | Jackes Fonseca              |
 | 1.4    | 10/04/2022 | Adicionando nova ferramenta          | Jackes Fonseca              |
 | 1.5    | 10/04/2022 | Padronizando tamanho das imagens     | Jackes Fonseca              |
+| 1.6    | 15/04/2022 | Adição de novas ferramentas     | Eduardo Gurgel              |
