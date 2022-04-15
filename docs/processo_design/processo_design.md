@@ -45,6 +45,7 @@
 <br>
 
 ## 4. Conclusão
+Depois de analisar alguns modelos, o ciclo de vida de Mayhew foi escolhido por ser o método que mais se adapta ao objetivo do projeto da equipe. Objetivamos elaborar um projeto completo, e Mayhew se encaixa muito bem. É esperado um grande aprendizado e desenvolvimento do conhecimento de IHC a partir da execução desse projeto.
 
 ## 5. Histórico de Versão
 
@@ -55,3 +56,4 @@
 | 1.2    | 09/02/2022 | Atualização imagem e estilo texto                | Isadora Soares |
 | 1.3    | 11/04/2022 | Atualização imagem                               | Jackes Fonseca |
 | 1.4    | 11/04/2022 | Atualização descrição e fonte                    | Jackes Fonseca |
+| 1.5    | 15/04/2022 | Adicionando a conclusão                    | Eduardo Gurgel |
