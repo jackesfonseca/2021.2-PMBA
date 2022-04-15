@@ -8,14 +8,9 @@
 
 <p> Cada processo de design detalha essas atividades básicas de uma forma particular, definindo como executar cada atividade. a sequência em que elas devem ser executadas, quais atividades e por quais motivos podem se repetir e os artefatos produzidos em cada uma delas. Uma característica básica dos processos de design é a execução das atividades de forma <b>iterativa</b>, permitindo refinamentos sucessivos da análise da situação atual e da proposta de intervenção. (Barbosa e Silva, 2010).</p>
 
-<br>
-<br>
-
 ## 2. Metodologia
 
 <p>A Engenharia de Usabilidade de Mayhew reune e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura 1 mostra as três fases desse processo interativo:</p>
-
-<br>
 
 - **Análise de requisitos** São definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC.
 
@@ -23,26 +18,16 @@
 
 - **Instalação** o designer deve coletar opiniões dos usuários depois de algum tempo de uso.Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
 
-<br>
-<br>
 
 <figcaption class="center">Figura 1: Engenharia de Usabilidade de Mayhew</figcaption>
 <img width="600" src="https://user-images.githubusercontent.com/53023400/162815797-9fd9f329-8b85-43c0-99b1-294a95ffc683.png">
 <figcaption class:"center">Fonte: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
    Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</figcaption>
 
-
-<br>
-<br>
-<br>
-<br>
-
 ## 3. Referências
 
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
    Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
-<br>
 
 ## 4. Conclusão
 Depois de analisar alguns modelos, o ciclo de vida de Mayhew foi escolhido por ser o método que mais se adapta ao objetivo do projeto da equipe. Objetivamos elaborar um projeto completo, e Mayhew se encaixa muito bem. É esperado um grande aprendizado e desenvolvimento do conhecimento de IHC a partir da execução desse projeto.
@@ -57,3 +42,4 @@ Depois de analisar alguns modelos, o ciclo de vida de Mayhew foi escolhido por s
 | 1.3    | 11/04/2022 | Atualização imagem                               | Jackes Fonseca |
 | 1.4    | 11/04/2022 | Atualização descrição e fonte                    | Jackes Fonseca |
 | 1.5    | 15/04/2022 | Adicionando a conclusão                    | Eduardo Gurgel |
+| 1.6    | 15/04/2022 | Ajustes de detalhes                    | Eduardo Gurgel |
